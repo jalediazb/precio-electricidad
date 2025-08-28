@@ -1,0 +1,145 @@
+---
+title: Precio Electricidad
+---
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+        <style>
+            @media (prefers-color-scheme: dark) {
+                :root {
+                    color-scheme: light;
+                    --bg: #fff;
+                    --accent-bg: #f5f7ff;
+                    --text: #212121;
+                    --text-light: #585858;
+                    --accent: #0d47a1;
+                    --accent-hover: #1266e2;
+                    --accent-text: var(--bg);
+                    --code: #d81b60;
+                    --preformatted: #444;
+                    --marked: #ffdd33;
+                    --disabled: #efefef;
+                }
+            }
+        </style>
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+        <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+        <title>{{ title }}</title>
+        <meta name="description" content="{{ meta_description }}">
+    </head>
+    <body>
+        
+        <header>
+            <h1>Precio diario de la electricidad en España</h1>
+            <p>Para el día: {{ precios.fecha }}</p>
+        </header>
+
+        <main>
+            <div id="contenedor-franjas"></div>
+
+            
+                <div class="container block">
+                    {{ content | safe }}
+                </div>
+            
+            <div class="ct-chart ct-perfect-fourth"></div>
+
+        </main>
+
+        <script>
+            const data = {{ precios.preciosGrafico | dump | safe }};
+            new Chartist.Line('.ct-chart', data, {
+                lineSmooth: Chartist
+                    .Interpolation
+                    .step({postpone: true, fillHoles: false})
+            });
+
+            // Crear las franjas de colores
+            const precios = {{ precios.precios | dump | safe }};
+            const preciosOrdenados = [...precios].sort((a, b) => a.valor - b.valor);
+            const valoresBaratos = new Set(preciosOrdenados.slice(0, 5).map(p => p.valor));
+            const valoresCaros = new Set(preciosOrdenados.slice(-5).map(p => p.valor));
+            precios.forEach(precio => {
+                const franja = document.createElement('div');
+                franja
+                    .classList
+                    .add('franja');
+
+                // Asigna una clase de color según el valor
+                if (valoresBaratos.has(precio.valor)) {
+                    franja
+                        .classList
+                        .add('barata');
+                } else if (valoresCaros.has(precio.valor)) {
+                    franja
+                        .classList
+                        .add('cara');
+                } else {
+                    franja
+                        .classList
+                        .add('normal');
+                }
+
+                franja.textContent = precio.hora;
+
+                // Opcional: añade la hora como un tooltip
+                franja.title = `Hora: ${precio.hora}h, Precio: ${precio.valor} €`;
+
+                const contenedor = document.getElementById('contenedor-franjas');
+                contenedor.appendChild(franja);
+            });
+        </script>
+
+        <style>
+            #contenedor-franjas {
+                display: flex;
+                width: 100%;
+                height: 40px;
+                border-radius: 8px;
+                overflow: hidden;
+            }
+
+            .franja {
+                flex: 1;
+                height: 100%;
+                transition: all 0.3s ease;
+
+                /* Propiedades clave para centrar el texto */
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                color: #333;
+                font-weight: bold;
+                font-size: 14px;
+            }
+
+            @media (max-width: 450px) {
+                .franja {
+                    font-size: 11px;
+                }
+                .ct-label {
+                    font-size: 0.5rem;
+                }
+            }
+
+            .franja.barata {
+                background-color: #4CAF50;
+                /* Verde */
+            }
+
+            .franja.cara {
+                background-color: #F44336;
+                /* Rojo */
+            }
+
+            .franja.normal {
+                background-color: #FFEB3B;
+                /* Amarillo */
+            }
+        </style>
+
+    </body>
+</html>

@@ -5,4 +5,5 @@ Web app que actualiza diariamente el precio de la electricidad del mercado regul
 Tecnologías utilizadas:
 - NodeJs.
 - Eleventy.
-
+- Bulma CSS.
+- Chartist

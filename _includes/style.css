@@ -1,0 +1,46 @@
+#contenedor-franjas {
+    display: flex;
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.franja {
+    flex: 1;
+    height: 100%;
+    transition: all 0.3s ease;
+    /* Propiedades clave para centrar el texto */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #333;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+@media(max-width: 450px) {
+    .franja {
+        font-size: 11px;
+    }
+
+    .ct-label {
+        font-size: 0.5rem;
+    }
+}
+
+.franja.barata {
+    background-color: #4CAF50;
+    /* Verde */
+}
+
+.franja.cara {
+    background-color: #F44336;
+    /* Rojo */
+}
+
+.franja.normal {
+    background-color: #FFEB3B;
+    /* Amarillo */
+}
+

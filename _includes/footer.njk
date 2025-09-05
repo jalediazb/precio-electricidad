@@ -1,0 +1,10 @@
+<footer>
+
+</footer>
+</body>
+<script>
+const data = {{ precios.preciosGrafico | dump | safe }};
+const precios = {{ precios.precios | dump | safe }};
+{% include "_includes/js/scripts.js" %}
+</script>
+</html>

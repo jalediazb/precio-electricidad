@@ -3,6 +3,7 @@ import { obtenerPreciosElectricidad } from './utils/ObtenerPreciosElectricidad.j
 export default async function (eleventyConfig) {   
     
     eleventyConfig.addPassthroughCopy("_includes/style.css");
+    eleventyConfig.addPassthroughCopy("_includes/img/electON.png");
 
     /* --- Get API --- */
     const precios = await obtenerPreciosElectricidad();

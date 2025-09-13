@@ -1,10 +1,13 @@
 <footer>
-
+    <div class="container">
+        <p>Hola</p>
+    </div>
 </footer>
+<div class="navbar is-fixed-bottom is-hidden-touch" id="prices-bar"></div>
 </body>
 <script>
-const data = {{ precios.preciosGrafico | dump | safe }};
-const precios = {{ precios.precios | dump | safe }};
-{% include "_includes/js/scripts.js" %}
+    const data = {{ precios.preciosGrafico | dump | safe }};
+    const precios = {{ precios.precios | dump | safe }};
+    {% include "_includes/js/scripts.js" %}
 </script>
 </html>

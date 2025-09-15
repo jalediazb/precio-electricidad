@@ -33,11 +33,11 @@ const valoresCaros = new Set(preciosOrdenados.slice(-5).map(p => p.valor));
     contenedor.appendChild(franja);
 });*/
 
-// Test prices-bar
+// Barra de precios
 
 precios.forEach(precio => {
     const franja = document.createElement('div');
-    franja.classList.add('franja');
+    franja.classList.add('franja', 'is-flex', 'is-flex-grow-1', 'has-text-centered', 'is-align-items-center', 'is-justify-content-center');
     // Asigna una clase de color según el valor
     if (valoresBaratos.has(precio.valor)) {
         franja.classList.add('has-background-success');

@@ -8,5 +8,14 @@
         <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
         <title>{{ title }}</title>
         <meta name="description" content="{{ meta_description }}">
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": "{{ title }}",
+            "description": "{{ meta_description }}",
+            "url": "{{ page.url }}"
+        }
+        </script>
     </head>
     <body>

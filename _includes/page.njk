@@ -1,0 +1,45 @@
+---
+---
+{% include "_includes/head.njk" %}
+{% include "_includes/header.njk" %}
+<main>
+    <section class="section page-section">
+        <div class="container content info-page">
+            <div class="page-card">
+                <nav class="breadcrumb" aria-label="breadcrumbs">
+                    <ul>
+                        <li><a href="/">Inicio</a></li>
+                        <li class="is-active"><a href="{{ page.url }}" aria-current="page">{{ title }}</a></li>
+                    </ul>
+                </nav>
+                {{ content | safe }}
+            </div>
+        </div>
+    </section>
+</main>
+{% if faqSchema %}
+<script type="application/ld+json">
+{{ faqSchema | dump | safe }}
+</script>
+{% endif %}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Inicio",
+            "item": "/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "{{ title }}",
+            "item": "{{ page.url }}"
+        }
+    ]
+}
+</script>
+{% include "_includes/footer.njk" %}

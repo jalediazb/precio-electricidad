@@ -1,0 +1,29 @@
+---
+layout: page.njk
+title: "Electrodomesticos que mas consumen y como ahorrar"
+meta_description: "Conoce los electrodomesticos que mas consumen en casa y aplica consejos practicos para reducir su impacto mensual en la factura de la luz."
+---
+
+# Electrodomesticos que mas consumen en casa
+
+Conocer los equipos de mayor consumo ayuda a priorizar acciones de ahorro.
+
+## Normalmente consumen mas
+
+- Horno electrico
+- Vitroceramica o induccion
+- Termo electrico
+- Secadora
+- Aire acondicionado o calefaccion electrica
+
+## Que hacer
+
+1. Concentrar su uso en horas baratas cuando sea posible.
+2. Evitar funcionamiento simultaneo en horas caras.
+3. Mejorar eficiencia de uso (cargas completas, temperaturas razonables, mantenimiento).
+
+<div class="related-links">
+<a href="/horas-mas-baratas-luz-hoy/">Horas mas baratas de la luz hoy</a><br>
+<a href="/trucos-horas-baratas-luz/">Trucos para ahorrar por horarios</a><br>
+<a href="/ahorrar-factura-luz/">Como ahorrar en la factura</a>
+</div>

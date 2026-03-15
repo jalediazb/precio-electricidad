@@ -1,11 +1,150 @@
 
+body {
+    background-color: #f8fafc;
+    color: #1f2937;
+}
+
+.navbar {
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.navbar .navbar-item.nav-current {
+    color: #1d4ed8;
+    font-weight: 700;
+    background-color: #eff6ff;
+}
+
+.navbar .navbar-link.nav-current {
+    color: #1d4ed8;
+    font-weight: 700;
+    background-color: #eff6ff;
+}
+
+.navbar .navbar-item.nav-current:hover {
+    color: #1e40af;
+    background-color: #dbeafe;
+}
+
+.hero {
+    background: linear-gradient(180deg, #ffffff 0%, #eef2ff 100%);
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.card {
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.05);
+}
+
+.quick-facts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.75rem;
+}
+
+.quick-fact-item {
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    background: #ffffff;
+    padding: 0.85rem;
+}
+
+.home-content {
+    max-width: 980px;
+}
+
+.home-content .info-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.home-content .info-card {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.home-content .info-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.page-section {
+    padding-top: 2rem;
+    padding-bottom: 4.5rem;
+}
+
+.info-page {
+    max-width: 860px;
+    margin: 0 auto;
+}
+
+.info-page .page-card {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 1.5rem;
+}
+
+.related-links {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e5e7eb;
+}
+
+.breadcrumb {
+    margin-bottom: 1rem;
+}
+
+.info-page .breadcrumb ul {
+    flex-wrap: wrap;
+}
+
+.info-page .breadcrumb li {
+    max-width: 100%;
+}
+
+.info-page .breadcrumb li a {
+    white-space: normal;
+    overflow-wrap: anywhere;
+}
+
 @media(max-width: 450px) {
+    .quick-facts-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .home-content .info-grid {
+        grid-template-columns: 1fr;
+    }
+
     .franja {
         font-size: 10px;
     }
 
     .ct-label {
         font-size: 0.5rem;
+    }
+}
+
+@media(max-width: 768px) {
+    .page-section {
+        padding-top: 1rem;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        padding-bottom: 4.5rem;
+    }
+
+    .info-page .page-card {
+        padding: 0.75rem;
+    }
+
+    .breadcrumb {
+        margin-bottom: 0.75rem;
+        font-size: 0.875rem;
     }
 }
 

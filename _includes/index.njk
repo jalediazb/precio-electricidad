@@ -23,6 +23,9 @@ title: Precio Electricidad
             <div class="columns">
                 <div class="column is-three-fifths-desktop is-offset-one-fifth-desktop">
                     <div class="card">
+                        <header class="card-header">
+                            <p class="card-header-title">Evolucion horaria del precio PVPC</p>
+                        </header>
                         <div class="card-content p-0 pt-2">
                             <div class="ct-chart ct-perfect-fourth"></div>
                         </div>
@@ -32,11 +35,41 @@ title: Precio Electricidad
         </div>        
     </section>
 
-
+    <section class="section pt-0 px-2">
+        <div class="container">
+            <div class="columns">
+                <div class="column is-three-fifths-desktop is-offset-one-fifth-desktop">
+                    <div class="card quick-facts-card">
+                        <header class="card-header">
+                            <p class="card-header-title">Hoy te interesa saber</p>
+                        </header>
+                        <div class="card-content">
+                            <div class="quick-facts-grid">
+                                <article class="quick-fact-item">
+                                    <p class="is-size-7 has-text-weight-semibold">Hora mas barata</p>
+                                    <p id="fact-cheapest-hour" class="is-size-5 has-text-weight-bold">--</p>
+                                </article>
+                                <article class="quick-fact-item">
+                                    <p class="is-size-7 has-text-weight-semibold">Hora mas cara</p>
+                                    <p id="fact-expensive-hour" class="is-size-5 has-text-weight-bold">--</p>
+                                </article>
+                                <article class="quick-fact-item">
+                                    <p class="is-size-7 has-text-weight-semibold">Precio medio diario</p>
+                                    <p id="fact-average-price" class="is-size-5 has-text-weight-bold">--</p>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <div id="contenedor-franjas"></div>
-    <div>
-        {{ content | safe }}
-    </div>
+    <section class="section pt-0">
+        <div class="container content is-medium home-content">
+            {{ content | safe }}
+        </div>
+    </section>
 </main>
 {% include "_includes/footer.njk" %}

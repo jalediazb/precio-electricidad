@@ -4,6 +4,18 @@
 <div class="navbar is-fixed-bottom is-flex" id="prices-bar"></div>
 </body>
 <script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const burger = document.querySelector('.navbar-burger');
+        const menu = document.getElementById('navbar1');
+
+        if (burger && menu) {
+            burger.addEventListener('click', () => {
+                burger.classList.toggle('is-active');
+                menu.classList.toggle('is-active');
+            });
+        }
+    });
+
     const data = {{ precios.preciosGrafico | dump | safe }};
     const precios = {{ precios.precios | dump | safe }};
     {% include "_includes/js/scripts.js" %}

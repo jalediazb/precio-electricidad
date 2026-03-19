@@ -9,6 +9,10 @@ date: 2026-03-19
 
 Para saber **a qué horas es más barata la electricidad**, revisa la curva horaria y prioriza las franjas con menor precio para los consumos que puedes desplazar.
 
+Generalmente las franjas con un precio de la electricidad más bajo son las de media tarde, entre las 15:00 y 18:00, y de madrugada.
+
+Por contra, las franjas más caras son las mañanas, a partir de 07:00 hasta 12:00, y la tarde/noche entre las 19:00 y las 22:00 aproximadamente.
+
 ## Regla práctica
 
 1. Identifica las horas más económicas.
@@ -22,6 +26,8 @@ Para saber **a qué horas es más barata la electricidad**, revisa la curva hora
 - Secadora.
 - Termo eléctrico.
 - Carga de vehículo eléctrico (si aplica).
+
+Por experiencia, la lavadora, el lavavajillas y la secadora son los electrodomésticos que mejor se adaptan a estos cambios: no requieren supervisión mientras funcionan y, además, son fáciles de programar incluso en modelos antiguos.
 
 <div class="related-links">
 <a href="/trucos-horas-baratas-luz/">Trucos para aprovechar las horas baratas</a><br>

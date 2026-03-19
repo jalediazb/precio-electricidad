@@ -1,15 +1,15 @@
 ---
 layout: page.njk
-title: "Que potencia contratar en casa para pagar menos"
-meta_description: "Descubre que potencia contratar en casa para no pagar de mas en la luz y ajustar el termino fijo de la factura a tu consumo real y tu rutina."
+title: "Qué potencia contratar en casa para pagar menos"
+meta_description: "Descubre qué potencia contratar en casa para no pagar de más en la luz y ajustar el término fijo de la factura a tu consumo real y tu rutina."
 date: 2026-03-19
 ---
 
-# Que potencia contratar en casa
+# Qué potencia contratar en casa
 
-La potencia contratada impacta directamente en el coste fijo de tu factura. Si esta sobredimensionada, pagas de mas todos los meses.
+La potencia contratada impacta directamente en el coste fijo de tu factura. Si está sobredimensionada, pagas de más todos los meses.
 
-## Como evaluarla
+## Cómo evaluarla
 
 - Revisa la potencia actual en tu factura.
 - Observa cuantos aparatos sueles usar a la vez.
@@ -20,7 +20,7 @@ La potencia contratada impacta directamente en el coste fijo de tu factura. Si e
 Si nunca tienes cortes por exceso de demanda, puede que tengas margen para bajar potencia. Hazlo con prudencia y tras revisar tus hábitos reales.
 
 <div class="related-links">
-<a href="/como-entender-factura-luz/">Como entender tu factura</a><br>
+<a href="/como-entender-factura-luz/">Cómo entender tu factura</a><br>
 <a href="/ahorrar-factura-luz/">Guía para ahorrar en la factura</a><br>
-<a href="/electrodomesticos-que-mas-consumen/">Electrodomésticos que mas consumen</a>
+<a href="/electrodomesticos-que-mas-consumen/">Electrodomésticos que más consumen</a>
 </div>

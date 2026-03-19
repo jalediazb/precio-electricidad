@@ -15,11 +15,11 @@ Tarifa regulada de electricidad para pequeños consumidores, con precio horario.
 
 Código único del punto de suministro. Identifica tu instalación eléctrica.
 
-## Termino de energía
+## Término de energía
 
 Parte variable de la factura: depende de los kWh consumidos.
 
-## Termino de potencia
+## Término de potencia
 
 Parte fija de la factura: depende de la potencia contratada.
 
@@ -36,7 +36,7 @@ Empresa autorizada para ofrecer el PVPC en España.
 Descuento regulado en factura para consumidores vulnerables que cumplan requisitos.
 
 <div class="related-links">
-<a href="/como-entender-factura-luz/">Como entender la factura de la luz</a><br>
+<a href="/como-entender-factura-luz/">Cómo entender la factura de la luz</a><br>
 <a href="/faq-pvpc/">FAQ sobre PVPC</a><br>
 <a href="/ahorrar-factura-luz/">Guía de ahorro eléctrico</a>
 </div>

@@ -1,11 +1,11 @@
 ---
 layout: page.njk
-title: "Trucos para aprovechar las horas mas baratas de la luz"
-meta_description: "Aplica trucos sencillos para aprovechar las horas mas baratas de la luz y bajar tu factura eléctrica sin perder confort en tu día a día."
+title: "Trucos para aprovechar las horas más baratas de la luz"
+meta_description: "Aplica trucos sencillos para aprovechar las horas más baratas de la luz y bajar tu factura eléctrica sin perder confort en tu día a día."
 date: 2026-03-19
 ---
 
-# Trucos para aprovechar las horas mas baratas de la luz
+# Trucos para aprovechar las horas más baratas de la luz
 
 Aprovechar bien las horas baratas no requiere grandes cambios. Estos trucos son fáciles de aplicar en el día a día.
 
@@ -22,7 +22,7 @@ Aprovechar bien las horas baratas no requiere grandes cambios. Estos trucos son 
 Mirar solo el precio mínimo puntual. Es mejor identificar un bloque de horas razonables para organizar rutina con continuidad.
 
 <div class="related-links">
-<a href="/horas-mas-baratas-luz-hoy/">A que horas es mas barata la electricidad hoy</a><br>
+<a href="/horas-mas-baratas-luz-hoy/">A qué horas es más barata la electricidad hoy</a><br>
 <a href="/precio-electricidad-espana-hoy/">Precio de la electricidad en España hoy</a><br>
 <a href="/ahorrar-factura-luz/">Guía completa de ahorro</a>
 </div>

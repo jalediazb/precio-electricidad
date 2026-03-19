@@ -2,6 +2,7 @@
 layout: page.njk
 title: "PVPC vs mercado libre: que tarifa compensa mas"
 meta_description: "Compara PVPC y mercado libre, entiende sus diferencias y elige la tarifa de luz que mejor encaja con tu perfil y rutina sin pagar de mas."
+date: 2026-03-19
 ---
 
 # PVPC vs mercado libre: diferencias y cuando conviene

@@ -81,9 +81,14 @@ async function obtenerPreciosElectricidad() {
       { labels: [], series: [[]] }
     );
 
+    const fechaActualizacion = new Date(respuesta.indicator.values[0].datetime).toLocaleDateString('en-CA', {
+      timeZone: 'Europe/Madrid'
+    });
+
     const preciosProcesados = {
       preciosGrafico,
       fecha,
+      fechaActualizacion,
       precios,
       horasBaratas,
       horasCaras

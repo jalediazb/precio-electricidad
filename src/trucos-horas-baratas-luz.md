@@ -2,6 +2,7 @@
 layout: page.njk
 title: "Trucos para aprovechar las horas mas baratas de la luz"
 meta_description: "Aplica trucos sencillos para aprovechar las horas mas baratas de la luz y bajar tu factura electrica sin perder confort en tu dia a dia."
+date: 2026-03-19
 ---
 
 # Trucos para aprovechar las horas mas baratas de la luz

@@ -2,6 +2,7 @@
 layout: page.njk
 title: "A que horas es mas barata la electricidad hoy | PVPC"
 meta_description: "Descubre a que horas es mas barata la electricidad hoy, organiza consumos por franjas y paga menos en tu factura sin cambiar todo tu habito."
+date: 2026-03-19
 ---
 
 # A que horas es mas barata la electricidad hoy

@@ -2,6 +2,7 @@
 layout: page.njk
 title: "Como cambiar al PVPC y entrar en mercado regulado"
 meta_description: "Sigue estos pasos para cambiar tu tarifa al PVPC en Espana, entrar en el mercado regulado y aprovechar mejor las horas mas baratas de luz."
+date: 2026-03-19
 ---
 
 # Como cambiar tu tarifa para estar en este mercado

@@ -2,6 +2,7 @@
 layout: page.njk
 title: "Como entender la factura de la luz paso a paso"
 meta_description: "Guia clara para entender tu factura de la luz: termino de energia, potencia, peajes, cargos e impuestos, y detectar donde ahorrar en casa."
+date: 2026-03-19
 ---
 
 # Como entender la factura de la luz

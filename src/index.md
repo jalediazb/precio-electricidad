@@ -1,11 +1,11 @@
 ---
 layout: index.njk
-title: "Precio de la luz hoy en Espana por horas | PVPC"
-meta_description: "Consulta el precio de la luz hoy en Espana por horas (PVPC), detecta tramos mas baratos y aplica consejos para ahorrar en tu factura electrica."
+title: "Precio de la luz hoy en España por horas | PVPC"
+meta_description: "Consulta el precio de la luz hoy en España por horas (PVPC), detecta tramos mas baratos y aplica consejos para ahorrar en tu factura electrica."
 
 ---
 
-## Informacion clave sobre el mercado regulado
+## Información clave sobre el mercado regulado
 
 Este portal muestra el precio horario del **PVPC**, la tarifa regulada de electricidad en Espana. Si quieres entender bien que significa este mercado y como te afecta en tu factura, aqui tienes una guia rapida.
 

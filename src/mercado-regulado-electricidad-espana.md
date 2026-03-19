@@ -2,6 +2,7 @@
 layout: page.njk
 title: "Que es el mercado regulado de la electricidad en Espana"
 meta_description: "Descubre que es el mercado regulado de la electricidad en Espana, como funciona el PVPC y que implicaciones tiene para tu factura diaria de luz."
+date: 2026-03-19
 ---
 
 # Que es el mercado regulado de la electricidad en Espana

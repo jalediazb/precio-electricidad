@@ -2,6 +2,7 @@
 layout: page.njk
 title: "Precio de la electricidad hoy en Espana | PVPC por horas"
 meta_description: "Consulta el precio de la electricidad hoy en Espana por horas, identifica tramos mas baratos y entiende el PVPC para reducir tu factura de luz."
+date: 2026-03-19
 ---
 
 # Precio de la electricidad en Espana hoy

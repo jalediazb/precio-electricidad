@@ -2,6 +2,7 @@
 layout: page.njk
 title: "Como funciona el mercado regulado de la electricidad"
 meta_description: "Aprende como funciona el mercado regulado y el PVPC: precio por horas, formacion de tramos y claves practicas para reducir tu factura cada dia."
+date: 2026-03-19
 ---
 
 # Como funciona este mercado

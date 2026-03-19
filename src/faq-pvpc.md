@@ -11,7 +11,7 @@ faqSchema:
       "name": "Que es el PVPC?"
       "acceptedAnswer":
         "@type": "Answer"
-        "text": "El PVPC es la tarifa regulada para pequeno consumidor en Espana, con precio de energia que varia por horas."
+        "text": "El PVPC es la tarifa regulada para pequeño consumidor en España, con precio de energía que varia por horas."
     - "@type": "Question"
       "name": "A que horas es mas barata la electricidad?"
       "acceptedAnswer":
@@ -33,11 +33,11 @@ faqSchema:
 
 ## Que es el PVPC?
 
-Es la tarifa regulada para pequeno consumidor en Espana y su precio de energia cambia cada hora.
+Es la tarifa regulada para pequeño consumidor en España y su precio de energía cambia cada hora.
 
 ## A que horas es mas barata la electricidad?
 
-No hay una hora fija universal. Cambia cada dia y conviene consultar el precio horario antes de planificar consumos.
+No hay una hora fija universal. Cambia cada día y conviene consultar el precio horario antes de planificar consumos.
 
 ## Puedo cambiar de mercado libre a PVPC?
 
@@ -49,7 +49,7 @@ En la practica, si. Para acceder al bono social normalmente debes tener contrato
 
 ## Cada cuanto debo revisar mi tarifa?
 
-Es recomendable revisar condiciones y habitos cada pocos meses o cuando notes subidas persistentes en factura.
+Es recomendable revisar condiciones y hábitos cada pocos meses o cuando notes subidas persistentes en factura.
 
 <div class="related-links">
 <a href="/mercado-regulado-electricidad-espana/">Que es el mercado regulado</a><br>

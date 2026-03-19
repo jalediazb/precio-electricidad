@@ -1,17 +1,17 @@
 ---
 layout: page.njk
 title: "Como funciona el mercado regulado de la electricidad"
-meta_description: "Aprende como funciona el mercado regulado y el PVPC: precio por horas, formacion de tramos y claves practicas para reducir tu factura cada dia."
+meta_description: "Aprende como funciona el mercado regulado y el PVPC: precio por horas, formación de tramos y claves practicas para reducir tu factura cada día."
 date: 2026-03-19
 ---
 
 # Como funciona este mercado
 
-En el mercado regulado, el precio de la energia no es igual todo el dia. Se determina hora a hora, segun el equilibrio entre oferta y demanda electrica y otros componentes regulados.
+En el mercado regulado, el precio de la energía no es igual todo el día. Se determina hora a hora, según el equilibrio entre oferta y demanda eléctrica y otros componentes regulados.
 
-Cada jornada se publican valores que permiten saber que horas seran mas baratas o mas caras. Con esa informacion, un consumidor puede mover parte de su consumo (lavadora, lavavajillas, termo) a tramos de menor coste.
+Cada jornada se publican valores que permiten saber que horas serán mas baratas o mas caras. Con esa información, un consumidor puede mover parte de su consumo (lavadora, lavavajillas, termo) a tramos de menor coste.
 
-Tu factura refleja el consumo de cada periodo, junto con peajes, cargos e impuestos. Por eso, entender la curva diaria puede ayudarte a pagar menos sin cambiar tus habitos de fondo, solo el momento en que usas ciertos equipos.
+Tu factura refleja el consumo de cada periodo, junto con peajes, cargos e impuestos. Por eso, entender la curva diaria puede ayudarte a pagar menos sin cambiar tus hábitos de fondo, solo el momento en que usas ciertos equipos.
 
 ## En la practica
 

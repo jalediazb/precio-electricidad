@@ -1,7 +1,7 @@
 ---
 layout: page.njk
-title: "Como ahorrar en la factura de la luz | Guia practica"
-meta_description: "Aprende como ahorrar en la factura de la luz con medidas practicas: horas baratas, potencia contratada y eleccion de tarifa segun tu consumo."
+title: "Como ahorrar en la factura de la luz | Guía practica"
+meta_description: "Aprende como ahorrar en la factura de la luz con medidas practicas: horas baratas, potencia contratada y elección de tarifa según tu consumo."
 date: 2026-03-19
 ---
 
@@ -11,15 +11,15 @@ Si tu objetivo es **ahorrar en la factura de la luz**, combina tres palancas: ho
 
 ## Checklist de ahorro
 
-1. Consulta cada dia las horas mas baratas.
-2. Mueve consumos flexibles a franjas economicas.
+1. Consulta cada día las horas mas baratas.
+2. Mueve consumos flexibles a franjas económicas.
 3. Revisa si tu potencia contratada esta sobredimensionada.
-4. Compara periodicamante PVPC y mercado libre segun tus habitos.
+4. Compara periódicamente PVPC y mercado libre según tus hábitos.
 5. Elimina consumos invisibles (standby y usos innecesarios).
 
 ## Ahorro realista
 
-El mayor impacto suele venir de cambios pequenos pero constantes: ajustar horarios y corregir potencia contratada. No hace falta renunciar a confort, sino consumir mejor.
+El mayor impacto suele venir de cambios pequeños pero constantes: ajustar horarios y corregir potencia contratada. No hace falta renunciar a confort, sino consumir mejor.
 
 <div class="related-links">
 <a href="/pvpc-vs-mercado-libre/">PVPC vs mercado libre: que te conviene</a><br>

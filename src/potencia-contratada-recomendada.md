@@ -17,10 +17,10 @@ La potencia contratada impacta directamente en el coste fijo de tu factura. Si e
 
 ## Regla general
 
-Si nunca tienes cortes por exceso de demanda, puede que tengas margen para bajar potencia. Hazlo con prudencia y tras revisar tus habitos reales.
+Si nunca tienes cortes por exceso de demanda, puede que tengas margen para bajar potencia. Hazlo con prudencia y tras revisar tus hábitos reales.
 
 <div class="related-links">
 <a href="/como-entender-factura-luz/">Como entender tu factura</a><br>
-<a href="/ahorrar-factura-luz/">Guia para ahorrar en la factura</a><br>
-<a href="/electrodomesticos-que-mas-consumen/">Electrodomesticos que mas consumen</a>
+<a href="/ahorrar-factura-luz/">Guía para ahorrar en la factura</a><br>
+<a href="/electrodomesticos-que-mas-consumen/">Electrodomésticos que mas consumen</a>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: page.njk
 title: "Como cambiar al PVPC y entrar en mercado regulado"
-meta_description: "Sigue estos pasos para cambiar tu tarifa al PVPC en Espana, entrar en el mercado regulado y aprovechar mejor las horas mas baratas de luz."
+meta_description: "Sigue estos pasos para cambiar tu tarifa al PVPC en España, entrar en el mercado regulado y aprovechar mejor las horas mas baratas de luz."
 date: 2026-03-19
 ---
 
@@ -19,11 +19,11 @@ Cambiar al mercado regulado es un tramite relativamente sencillo si cumples las 
 ## Documentacion habitual
 
 - DNI del titular del contrato.
-- Direccion del punto de suministro.
-- CUPS (codigo de tu suministro electrico).
-- Cuenta bancaria para domiciliacion.
+- Dirección del punto de suministro.
+- CUPS (código de tu suministro eléctrico).
+- Cuenta bancaria para domiciliación.
 
-El cambio no suele implicar obras ni modificaciones tecnicas en casa. Es una gestion comercial y administrativa.
+El cambio no suele implicar obras ni modificaciones técnicas en casa. Es una gestión comercial y administrativa.
 
 <div class="related-links">
 <a href="/ventajas-mercado-regulado/">Anterior: Que ventajas tiene</a><br>

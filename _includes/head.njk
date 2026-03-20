@@ -8,6 +8,9 @@
         <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
         <title>{{ title }}</title>
         <meta name="description" content="{{ meta_description }}">
+        {% if robots %}
+        <meta name="robots" content="{{ robots }}">
+        {% endif %}
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",

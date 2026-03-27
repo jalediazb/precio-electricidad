@@ -53,12 +53,17 @@ export default async function (eleventyConfig) {
         );
     });
 
-    eleventyConfig.addTransform("addTableClass", (content, outputPath) => {
+    eleventyConfig.addTransform("wrapTables", (content, outputPath) => {
         if (!outputPath || !outputPath.endsWith(".html")) {
             return content;
         }
 
-        return ensureClassOnTag(content, "table", "table");
+        const contentWithTableClass = ensureClassOnTag(content, "table", "table");
+
+        return contentWithTableClass.replace(
+            /<table\b([^>]*)>([\s\S]*?)<\/table>/gi,
+            '<div class="table-container"><table$1>$2</table></div>'
+        );
     });
 
     /* --- Get API --- */

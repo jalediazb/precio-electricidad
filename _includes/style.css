@@ -151,6 +151,8 @@ body {
 .ct-series-a .ct-line {
             stroke: rgb(66, 88, 255);
         }
-        .ct-series-a .ct-point {
-            stroke: rgb(66, 88, 255);
-        }
+.ct-series-a .ct-point {
+    stroke: rgb(66, 88, 255);
+}
+
+figure.image {margin-bottom: 16px;}

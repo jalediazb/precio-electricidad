@@ -20,7 +20,6 @@ No es una tarifa perfecta para todos los perfiles. Si necesitas estabilidad abso
 
 <div class="related-links">
 <a href="/cambiar-a-tarifa-pvpc/">Siguiente: Cómo cambiar tu tarifa</a><br>
-<a href="/como-funciona-mercado-regulado/">Anterior: Cómo funciona este mercado</a><br>
 <a href="/ahorrar-factura-luz/">Cómo ahorrar en la factura de la luz</a><br>
 <a href="/pvpc-vs-mercado-libre/">PVPC vs mercado libre</a><br>
 <a href="/">Volver a la portada</a>

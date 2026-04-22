@@ -36,11 +36,6 @@ Este portal muestra el precio horario del **PVPC**, la tarifa regulada de electr
 		<p><a href="/mercado-regulado-electricidad-espana/">Leer explicación completa</a></p>
 	</article>
 	<article class="info-card">
-		<h3>Cómo funciona este mercado</h3>
-		<p>El coste se fija por tramos horarios según la oferta y la demanda diaria, y se actualiza con datos oficiales.</p>
-		<p><a href="/como-funciona-mercado-regulado/">Ver cómo funciona paso a paso</a></p>
-	</article>
-	<article class="info-card">
 		<h3>Qué ventajas tiene</h3>
 		<p>Aporta transparencia en el precio y permite aprovechar horas más baratas con cambios de hábitos de consumo.</p>
 		<p><a href="/ventajas-mercado-regulado/">Consultar ventajas del PVPC</a></p>

@@ -72,6 +72,84 @@ body {
     margin-bottom: 0.5rem;
 }
 
+.home-content .info-card a {
+    color: #1d4ed8;
+    font-weight: 600;
+}
+
+.home-content .info-card a:hover {
+    color: #1e40af;
+    text-decoration: underline;
+}
+
+.home-content h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #111827;
+}
+
+.home-content h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #1f2937;
+}
+
+.home-content p {
+    line-height: 1.7;
+    color: #374151;
+}
+
+.home-content ul {
+    padding-left: 1.5rem;
+}
+
+.home-content ul li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+.home-content ul li a {
+    color: #1d4ed8;
+    font-weight: 500;
+}
+
+.home-content ul li a:hover {
+    color: #1e40af;
+    text-decoration: underline;
+}
+
+#faqs {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 2px solid #e5e7eb;
+}
+
+#faqs h2 {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #111827;
+}
+
+#faqs h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+#faqs p {
+    color: #4b5563;
+    line-height: 1.7;
+}
+
+.quick-facts-card {
+    background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+}
+
 .page-section {
     padding-top: 2rem;
     padding-bottom: 4.5rem;

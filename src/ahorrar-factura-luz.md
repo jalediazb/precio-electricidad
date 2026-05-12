@@ -3,6 +3,7 @@ layout: page.njk
 title: "Cómo ahorrar en la factura de la luz | Guía práctica"
 meta_description: "Aprende cómo ahorrar en la factura de la luz con medidas prácticas: horas más baratas, potencia contratada y elección de tarifa según tu consumo."
 date: 2026-03-27
+og_image: "/img/ahorrar-factura-electricidad-nino-apagando-luz.jpg"
 ---
 
 # Cómo ahorrar electricidad y reducir la factura de la luz en casa

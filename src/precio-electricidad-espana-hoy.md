@@ -3,6 +3,7 @@ layout: page.njk
 title: "Precio de la Electricidad en España Hoy: Conoce Cuándo es Más Barata"
 meta_description: "Consulta el precio de la electricidad hoy en España por horas, identifica tramos más baratos y entiende el PVPC para reducir tu factura de luz."
 date: 2026-04-17
+og_image: "/img/comprar-precio-electricidad-espana.jpg"
 ---
 
 # Precio de la electricidad hoy: La guía definitiva para no pagar de más en España

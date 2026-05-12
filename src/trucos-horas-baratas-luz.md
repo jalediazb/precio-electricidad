@@ -3,6 +3,7 @@ layout: page.njk
 title: "Trucos para ahorrar electricidad en casa en 2026"
 meta_description: "Aplica trucos reales para ahorrar electricidad: horas valle, potencia, electrodomesticos, LED y autoconsumo con datos y ejemplos practicos"
 date: 2026-03-19
+og_image: "/img/trucos-ahorrar-electricidad.jpg"
 ---
 
 # Trucos para ahorrar electricidad en casa sin perder confort

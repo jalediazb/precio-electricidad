@@ -3,6 +3,7 @@ layout: page.njk
 title: "Horas mas baratas luz hoy: guia practica para ahorrar"
 meta_description: "Descubre a que horas sale mas barata la luz hoy, como leer el PVPC y que habitos aplicar para ahorrar de verdad en tu factura"
 date: 2026-04-19
+og_image: "/img/horas-baratas-electricidad-hoy.jpg"
 ---
 
 # Horas mas baratas luz hoy: como pagar menos sin complicarte

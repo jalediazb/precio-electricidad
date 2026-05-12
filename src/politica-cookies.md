@@ -4,6 +4,7 @@ title: "Política de cookies"
 meta_description: "Información sobre el uso de cookies, su finalidad, gestión del consentimiento y cómo desactivarlas."
 robots: "noindex, nofollow"
 date: 2026-03-20
+og_image: "/img/comprar-precio-electricidad-espana.jpg"
 ---
 
 # Política de cookies

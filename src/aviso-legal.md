@@ -4,6 +4,7 @@ title: "Aviso legal"
 meta_description: "Información legal del sitio web sobre titularidad, condiciones de uso y responsabilidad."
 robots: "noindex, nofollow"
 date: 2026-03-20
+og_image: "/img/comprar-precio-electricidad-espana.jpg"
 ---
 
 # Aviso legal

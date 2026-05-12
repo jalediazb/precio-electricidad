@@ -3,6 +3,7 @@ layout: page.njk
 title: "Electrodomésticos que mas consumen y como ahorrar luz"
 meta_description: "Conoce los electrodomésticos que más consumen en casa y aplica consejos prácticos para reducir su impacto mensual en la factura de la luz."
 date: 2026-03-19
+og_image: "/img/electrodomesticos-que-mas-consumen.jpg"
 ---
 
 # Electrodomésticos que mas consumen y como reducir su consumo eléctrico

@@ -3,6 +3,7 @@ layout: page.njk
 title: "Entender la factura electrica: guía practica 2026"
 meta_description: "Guía clara para entender tu factura de la luz: término de energía, potencia, peajes, cargos e impuestos, y detectar dónde ahorrar en casa."
 date: 2026-04-21
+og_image: "/img/entender-factura-electricidad.jpg"
 ---
 
 # Entender la factura electrica: guia clara para saber que pagas y como reducir el importe

@@ -4,6 +4,7 @@ title: "Política de privacidad"
 meta_description: "Política de privacidad sobre tratamiento de datos personales, base legal y derechos de las personas usuarias."
 robots: "noindex, nofollow"
 date: 2026-03-20
+og_image: "/img/comprar-precio-electricidad-espana.jpg"
 ---
 
 # Política de privacidad

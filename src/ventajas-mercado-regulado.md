@@ -3,6 +3,7 @@ layout: page.njk
 title: "Ventajas del mercado regulado de la electricidad (PVPC) en 2026"
 meta_description: "Conoce las ventajas del mercado regulado PVPC: transparencia del precio, acceso al bono social y opciones reales de ahorro por horas en casa."
 date: 2026-03-19
+og_image: "/img/ventajas-mercado-regulado-pvpc.jpg"
 ---
 
 # Ventajas del mercado regulado: cuándo compensa el PVPC de verdad

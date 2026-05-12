@@ -3,25 +3,73 @@
 {% include "_includes/head.njk" %}
 {% include "_includes/header.njk" %}
 <main>
-    <section class="section page-section">
-        <div class="container content info-page">
-            <div class="page-card">
-                <nav class="breadcrumb" aria-label="breadcrumbs">
+    <!-- Hero Section para artículos -->
+    <section class="article-hero">
+        <div class="article-hero-container">
+            <div class="article-hero-content">
+                <nav class="article-breadcrumb" aria-label="breadcrumbs">
                     <ul>
                         <li><a href="/">Inicio</a></li>
-                        <li class="is-active"><a href="{{ page.url }}" aria-current="page">{{ title }}</a></li>
+                        <li class="is-active"><span aria-current="page">{{ title }}</span></li>
                     </ul>
                 </nav>
-                {{ content | safe }}
+                <h1 class="article-hero-title">{{ title }}</h1>
+                {% if meta_description %}
+                <p class="article-hero-subtitle">{{ meta_description }}</p>
+                {% endif %}
             </div>
         </div>
     </section>
+
+    <!-- Contenido del artículo -->
+    <section class="article-section">
+        <div class="article-container">
+            <article class="article-card">
+                <div class="article-content">
+                    {{ content | safe }}
+                </div>
+                
+                <!-- Enlaces relacionados -->
+                {% if related_links %}
+                <div class="article-related">
+                    <h3>Artículos relacionados</h3>
+                    <ul>
+                        {% for link in related_links %}
+                        <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+            </article>
+
+            <!-- Sidebar con navegación -->
+            <aside class="article-sidebar">
+                <div class="sidebar-widget">
+                    <h3>📚 Guías populares</h3>
+                    <ul>
+                        <li><a href="/precio-electricidad-espana-hoy/">Precio de la luz hoy</a></li>
+                        <li><a href="/horas-mas-baratas-luz-hoy/">Horas más baratas</a></li>
+                        <li><a href="/ahorrar-factura-luz/">Cómo ahorrar</a></li>
+                        <li><a href="/pvpc-vs-mercado-libre/">PVPC vs Mercado libre</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-widget highlight">
+                    <h3>💡 ¿Sabías que...</h3>
+                    <p>El precio de la luz cambia cada hora. Conocer las horas más baratas te permite ahorrar hasta un 40% en tu factura.</p>
+                    <a href="/horas-mas-baratas-luz-hoy/" class="sidebar-cta">Ver horas baratas</a>
+                </div>
+            </aside>
+        </div>
+    </section>
 </main>
+
 {% if faqSchema %}
 <script type="application/ld+json">
 {{ faqSchema | dump | safe }}
 </script>
 {% endif %}
+
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -42,4 +90,5 @@
     ]
 }
 </script>
+
 {% include "_includes/footer.njk" %}

@@ -9,7 +9,20 @@
         </div>
     </div>
 </footer>
-<div class="navbar is-fixed-bottom is-flex" id="prices-bar"></div>
+
+<!-- Barra de franjas horarias minimalista -->
+<div class="prices-bar-wrapper">
+    <div class="prices-bar-info">
+        <span class="prices-bar-label">Horas del día:</span>
+        <span class="prices-bar-legend">
+            <span class="legend-item"><span class="legend-color cheap"></span>Barata</span>
+            <span class="legend-item"><span class="legend-color normal"></span>Normal</span>
+            <span class="legend-item"><span class="legend-color expensive"></span>Cara</span>
+        </span>
+    </div>
+    <div class="navbar is-fixed-bottom prices-bar-minimal" id="prices-bar"></div>
+</div>
+
 </body>
 <script>
     document.addEventListener('DOMContentLoaded', () => {

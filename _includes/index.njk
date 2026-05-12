@@ -5,68 +5,78 @@ title: Precio Electricidad
 {% include "_includes/head.njk" %}
 {% include "_includes/header.njk" %}
 <main>
-    <section class="hero">
-        <div class="hero-body">
-            <div class="container content">
-                <div class="columns">
-                    <div class="column has-text-centered is-half-desktop is-offset-one-quarter-desktop">
-                        <h1 class="title is-size-1-desktop is-size-3-touch">Precio de la Electricidad <br/> en el Mercado Español</h1>
-                        <p class="subtitle is-4 is-size-5-touch">Precio de la energía por hora para el pequeño consumidor en el mercado regulado en España (PVPC)</p>
-                        <p>Día: {{ precios.fecha }}</p>
-                    </div>
+    <!-- Hero Section Mejorado -->
+    <section class="hero-new">
+        <div class="hero-new-container">
+            <div class="hero-new-content">
+                <div class="hero-badge">⚡ Datos actualizados</div>
+                <h1 class="hero-title">Precio de la Luz Hoy en España</h1>
+                <p class="hero-subtitle">Consulta el precio de la electricidad por horas en el mercado regulado (PVPC). Ahorra hasta un 40% en tu factura programando tus electrodomésticos en las horas más baratas.</p>
+                <div class="hero-date">
+                    <span class="date-icon">📅</span>
+                    <span class="date-text">{{ precios.fecha }}</span>
                 </div>
             </div>
         </div>
     </section>
-    <section class="section px-2">
+
+    <!-- Gráfico y Quick Facts - Layout Mejorado -->
+    <section class="chart-section">
         <div class="container">
-            <div class="columns">
-                <div class="column is-three-fifths-desktop is-offset-one-fifth-desktop">
-                    <div class="card">
-                        <header class="card-header">
-                            <p class="card-header-title">Evolucion horaria del precio PVPC</p>
+            <div class="chart-layout">
+                <!-- Columna Principal: Gráfico -->
+                <div class="chart-main">
+                    <div class="chart-card">
+                        <header class="chart-header">
+                            <h2 class="chart-title">📈 Evolución horaria del precio PVPC</h2>
+                            <span class="chart-subtitle">Precio del kWh por hora del día</span>
                         </header>
-                        <div class="card-content p-0 pt-2">
+                        <div class="chart-body">
                             <div class="ct-chart ct-perfect-fourth"></div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>        
-    </section>
 
-    <section class="section pt-0 px-2">
-        <div class="container">
-            <div class="columns">
-                <div class="column is-three-fifths-desktop is-offset-one-fifth-desktop">
-                    <div class="card quick-facts-card">
-                        <header class="card-header">
-                            <p class="card-header-title">Hoy te interesa saber</p>
-                        </header>
-                        <div class="card-content">
-                            <div class="quick-facts-grid">
-                                <article class="quick-fact-item">
-                                    <p class="is-size-7 has-text-weight-semibold">Hora mas barata</p>
-                                    <p id="fact-cheapest-hour" class="is-size-5 has-text-weight-bold">--</p>
-                                </article>
-                                <article class="quick-fact-item">
-                                    <p class="is-size-7 has-text-weight-semibold">Hora mas cara</p>
-                                    <p id="fact-expensive-hour" class="is-size-5 has-text-weight-bold">--</p>
-                                </article>
-                                <article class="quick-fact-item">
-                                    <p class="is-size-7 has-text-weight-semibold">Precio medio diario</p>
-                                    <p id="fact-average-price" class="is-size-5 has-text-weight-bold">--</p>
-                                </article>
-                            </div>
+                <!-- Columna Lateral: Quick Facts -->
+                <div class="chart-sidebar">
+                    <div class="quick-facts-panel">
+                        <h3 class="quick-facts-title">💡 Datos clave de hoy</h3>
+                        
+                        <div class="quick-fact-box cheap">
+                            <div class="quick-fact-icon">🌙</div>
+                            <div class="quick-fact-label">Hora más barata</div>
+                            <div class="quick-fact-value" id="fact-cheapest-hour">--</div>
+                            <div class="quick-fact-hint">Ideal para lavadora y lavavajillas</div>
                         </div>
+
+                        <div class="quick-fact-box expensive">
+                            <div class="quick-fact-icon">⚠️</div>
+                            <div class="quick-fact-label">Hora más cara</div>
+                            <div class="quick-fact-value" id="fact-expensive-hour">--</div>
+                            <div class="quick-fact-hint">Evita electrodomésticos</div>
+                        </div>
+
+                        <div class="quick-fact-box average">
+                            <div class="quick-fact-icon">📊</div>
+                            <div class="quick-fact-label">Precio medio</div>
+                            <div class="quick-fact-value" id="fact-average-price">--</div>
+                            <div class="quick-fact-hint">Referencia del día</div>
+                        </div>
+
+                        <a href="/horas-mas-baratas-luz-hoy/" class="quick-facts-cta">
+                            Ver horas más baratas →
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
+    <!-- Franjas Horarias -->
     <div id="contenedor-franjas"></div>
-    <section class="section pt-0">
+
+    <!-- Contenido Principal -->
+    <section class="content-section-main">
         <div class="container content is-medium home-content">
             {{ content | safe }}
         </div>

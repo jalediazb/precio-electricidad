@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: page
 title: "Cómo ahorrar en la factura de la luz | Guía práctica"
 meta_description: "Aprende cómo ahorrar en la factura de la luz con medidas prácticas: horas más baratas, potencia contratada y elección de tarifa según tu consumo."
 date: 2026-03-27
@@ -180,4 +180,3 @@ Si priorizas primero las acciones de bajo esfuerzo y alto impacto, puedes empeza
 <a href="/potencia-contratada-recomendada/">Qué potencia contratar</a><br>
 <a href="/horas-mas-baratas-luz-hoy/">Horas más baratas de hoy</a>
 </div>
-

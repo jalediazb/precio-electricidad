@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: page
 title: "Glosario de la factura de la luz: términos clave"
 meta_description: "Consulta un glosario claro de la factura de la luz para entender conceptos eléctricos clave y tomar mejores decisiones de ahorro cada mes."
 date: 2026-03-19

@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: page
 title: "PVPC vs mercado libre: diferencias reales para pagar menos luz"
 meta_description: "Compara PVPC y mercado libre con ejemplos reales, ventajas y riesgos. Elige la tarifa de luz que mejor encaja con tu consumo y ahorra sin sorpresas"
 date: 2026-04-20

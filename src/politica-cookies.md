@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: page
 title: "Política de cookies"
 meta_description: "Información sobre el uso de cookies, su finalidad, gestión del consentimiento y cómo desactivarlas."
 robots: "noindex, nofollow"
@@ -56,4 +56,3 @@ Cada cookie tiene un plazo de conservación determinado en función de su finali
 
 La presente Política de cookies podrá actualizarse para adaptarse a cambios normativos, técnicos o funcionales del sitio web.
 Se recomienda revisar periódicamente su contenido.
-

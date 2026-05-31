@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: page
 title: "Política de privacidad"
 meta_description: "Política de privacidad sobre tratamiento de datos personales, base legal y derechos de las personas usuarias."
 robots: "noindex, nofollow"

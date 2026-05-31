@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: page
 title: "Qué potencia contratar en casa para pagar menos"
 meta_description: "Descubre qué potencia contratar en casa para no pagar de más en la luz y ajustar el término fijo de la factura a tu consumo real y tu rutina."
 date: 2026-03-19

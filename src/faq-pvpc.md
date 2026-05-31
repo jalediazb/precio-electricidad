@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: page
 title: "FAQ PVPC: dudas frecuentes sobre precio y ahorro"
 meta_description: "Resuelve las dudas más frecuentes sobre PVPC, mercado regulado, horas más baratas y cambio de tarifa para tomar mejores decisiones de ahorro."
 date: 2026-03-19

@@ -1,5 +1,5 @@
 ---
-layout: index.njk
+layout: index
 title: "Precio de la luz hoy en España por horas | PVPC 2026"
 meta_description: "Consulta el precio de la luz hoy en España por horas (PVPC). Gráfico actualizado con las horas más baratas y caras. Ahorra en tu factura eléctrica con datos oficiales del mercado regulado."
 og_image: "/img/comprar-precio-electricidad-espana.jpg"

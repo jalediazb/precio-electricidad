@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="es" data-theme="light" class="has-navbar-fixed-bottom">
+<!DOCTYPE html><html lang="{{config.site.html_language}}" data-theme="light" class="has-navbar-fixed-bottom">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,6 +11,14 @@
         {% if robots %}
         <meta name="robots" content="{{ robots }}">
         {% endif %}
+
+
+        {# Canonical #}
+
+        {% if layout in ['page', 'index'] %}
+            <link rel="canonical" href="https://{{ config.site.domain }}{{ page.url }}">
+        {% endif %}
+
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -21,31 +29,31 @@
         }
         </script>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3360355213948178" crossorigin="anonymous"></script>
-        
+
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://electon.es{{ page.url }}">
+        <meta property="og:url" content="https://{{config.site.domain}}{{ page.url }}">
         <meta property="og:title" content="{{ title }}">
         <meta property="og:description" content="{{ meta_description }}">
         {% if og_image %}
-        <meta property="og:image" content="https://electon.es{{ og_image }}">
+        <meta property="og:image" content="https://{{config.site.domain}}{{ og_image }}">
         {% else %}
-        <meta property="og:image" content="https://electon.es/img/comprar-precio-electricidad-espana.jpg">
+        <meta property="og:image" content="https://{{config.site.domain}}/img/comprar-precio-electricidad-espana.jpg">
         {% endif %}
         <meta property="og:image:width" content="1200">
         <meta property="og:image:height" content="630">
-        <meta property="og:locale" content="es_ES">
-        <meta property="og:site_name" content="ElectON">
-        
+        <meta property="og:locale" content="{{config.site.language }}">
+        <meta property="og:site_name" content="{{config.site.title}}">
+
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image">
-        <meta property="twitter:url" content="https://electon.es{{ page.url }}">
+        <meta property="twitter:url" content="https://{{config.site.domain}}{{ page.url }}">
         <meta property="twitter:title" content="{{ title }}">
         <meta property="twitter:description" content="{{ meta_description }}">
         {% if og_image %}
-        <meta property="twitter:image" content="https://electon.es{{ og_image }}">
+        <meta property="twitter:image" content="https://{{config.site.domain}}{{ og_image }}">
         {% else %}
-        <meta property="twitter:image" content="https://electon.es/img/comprar-precio-electricidad-espana.jpg">
+        <meta property="twitter:image" content="https://{{config.site.domain}}/img/comprar-precio-electricidad-espana.jpg">
         {% endif %}
     </head>
     <body>

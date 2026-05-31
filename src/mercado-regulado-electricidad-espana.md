@@ -1,5 +1,5 @@
 ---
-layout: page.njk
+layout: page
 title: "Cómo funciona el Mercado regulado eléctrico en España: guía PVPC 2026"
 meta_description: "Aprende cómo funciona el mercado regulado y el PVPC: precio por horas, formación de tramos y claves prácticas para reducir tu factura cada día."
 date: 2026-03-19

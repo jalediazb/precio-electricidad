@@ -11,6 +11,7 @@
         <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
         <title>{{ title }}</title>
         <meta name="description" content="{{ meta_description }}">
+        <meta name="author" content="{{ author or config.site.author }}">
         <link rel="icon" href='{{ config.site.favicon }}' type="image/png" sizes="32x32">
 
         {% if robots %}
@@ -30,13 +31,42 @@
             "@type": "WebPage",
             "name": "{{ title }}",
             "description": "{{ meta_description }}",
-            "url": "{{ page.url }}"
+            "url": "https://{{ config.site.domain }}{{ page.url }}",
+            "inLanguage": "{{ config.site.html_language }}",
+            "isPartOf": {
+                "@type": "WebSite",
+                "name": "{{ config.site.title }}",
+                "url": "https://{{ config.site.domain }}/"
+            }
         }
         </script>
+
+        {% if layout == 'index' %}
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "{{ config.site.title }}",
+            "url": "https://{{ config.site.domain }}/",
+            "logo": "https://{{ config.site.domain }}/_includes/img/electON.png",
+            "email": "{{ config.site.email }}",
+            "description": "Información independiente sobre el precio de la luz en España, el mercado regulado (PVPC) y el ahorro eléctrico en el hogar."
+        }
+        </script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "{{ config.site.title }}",
+            "url": "https://{{ config.site.domain }}/"
+        }
+        </script>
+        {% endif %}
+
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3360355213948178" crossorigin="anonymous"></script>
 
         <!-- Open Graph / Facebook -->
-        <meta property="og:type" content="website">
+        <meta property="og:type" content="{% if layout == 'page' %}article{% else %}website{% endif %}">
         <meta property="og:url" content="https://{{config.site.domain}}{{ page.url }}">
         <meta property="og:title" content="{{ title }}">
         <meta property="og:description" content="{{ meta_description }}">
@@ -49,6 +79,10 @@
         <meta property="og:image:height" content="630">
         <meta property="og:locale" content="{{config.site.language }}">
         <meta property="og:site_name" content="{{config.site.title}}">
+        {% if layout == 'page' %}
+        <meta property="article:published_time" content="{{ date | isoDate }}">
+        <meta property="article:modified_time" content="{{ (updated or date) | isoDate }}">
+        {% endif %}
 
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image">

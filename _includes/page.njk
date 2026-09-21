@@ -17,6 +17,15 @@
                 {% if meta_description %}
                 <p class="article-hero-subtitle">{{ meta_description }}</p>
                 {% endif %}
+                <div class="article-meta">
+                    <span>Por <strong>{{ author or config.site.author }}</strong></span>
+                    <span class="article-meta-sep">·</span>
+                    <span>Publicado el {{ date | isoDate }}</span>
+                    {% if updated %}
+                    <span class="article-meta-sep">·</span>
+                    <span>Actualizado el {{ updated | isoDate }}</span>
+                    {% endif %}
+                </div>
             </div>
         </div>
     </section>
@@ -28,7 +37,15 @@
                 <div class="article-content">
                     {{ content | safe }}
                 </div>
-                
+
+                <div class="article-author">
+                    <div class="article-author-avatar" aria-hidden="true">⚡</div>
+                    <div>
+                        <p class="article-author-name">{{ author or config.site.author }}</p>
+                        <p class="article-author-bio">Contenido elaborado por el equipo editorial de ElectON a partir de fuentes oficiales (REE/ESIOS, CNMC, IDAE y OCU). Consulta nuestra <a href="/metodologia-y-fuentes/">metodología y fuentes</a>.</p>
+                    </div>
+                </div>
+
                 <!-- Enlaces relacionados -->
                 {% if related_links %}
                 <div class="article-related">
@@ -72,6 +89,37 @@
 {{ faqSchema | dump | safe }}
 </script>
 {% endif %}
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": {{ title | dump | safe }},
+    "description": {{ meta_description | dump | safe }},
+    "url": "https://{{ config.site.domain }}{{ page.url }}",
+    "datePublished": "{{ date | isoDate }}",
+    "dateModified": "{{ (updated or date) | isoDate }}",
+    "inLanguage": "{{ config.site.html_language }}",
+    "image": "https://{{ config.site.domain }}{{ og_image or '/img/comprar-precio-electricidad-espana.jpg' }}",
+    "author": {
+        "@type": "Organization",
+        "name": "{{ author or config.site.author }}",
+        "url": "https://{{ config.site.domain }}/sobre-nosotros/"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ config.site.title }}",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://{{ config.site.domain }}/_includes/img/electON.png"
+        }
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://{{ config.site.domain }}{{ page.url }}"
+    }
+}
+</script>
 
 <script type="application/ld+json">
 {

@@ -43,6 +43,8 @@ Los datos se conservarán durante el tiempo estrictamente necesario para cumplir
 Con carácter general, no se comunicarán datos a terceros, salvo obligación legal o cuando sea necesario para la prestación del servicio.
 No obstante, podrán tener acceso a datos personales proveedores que actúen como encargados del tratamiento (por ejemplo, servicios de alojamiento o analítica), bajo los contratos y garantías legalmente exigibles.
 
+De forma específica, este sitio utiliza **Google AdSense** para mostrar publicidad. Google y sus socios pueden tratar datos (como identificadores de dispositivo e información de navegación) para mostrar anuncios, según la configuración de consentimiento de cada persona usuaria. Puedes consultar cómo trata Google estos datos en la [política de privacidad de Google](https://policies.google.com/privacy).
+
 ## 6. Derechos de las personas usuarias
 
 La persona interesada podrá ejercer los siguientes derechos:
@@ -54,7 +56,7 @@ La persona interesada podrá ejercer los siguientes derechos:
 - Limitación del tratamiento
 - Portabilidad
 
-Para ejercer estos derechos, podrá dirigirse a **[EMAIL DE CONTACTO]**, indicando el derecho que desea ejercitar y aportando, en su caso, documentación acreditativa de su identidad.
+Para ejercer estos derechos, podrá dirigirse a **[info@electon.es](mailto:info@electon.es)**, indicando el derecho que desea ejercitar y aportando, en su caso, documentación acreditativa de su identidad.
 
 Asimismo, si considera que el tratamiento no se ajusta a la normativa, podrá presentar una reclamación ante la Agencia Española de Protección de Datos (AEPD).
 

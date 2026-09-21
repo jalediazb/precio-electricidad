@@ -16,24 +16,27 @@
             <div class="navbar-end">
                 <a class="navbar-item{% if currentUrl == '/' %} nav-current{% endif %}" href="/" {% if currentUrl == '/' %}aria-current="page"{% endif %}>Inicio</a>
                 <a class="navbar-item{% if currentUrl == '/precio-electricidad-espana-hoy/' %} nav-current{% endif %}" href="/precio-electricidad-espana-hoy/" {% if currentUrl == '/precio-electricidad-espana-hoy/' %}aria-current="page"{% endif %}>Precio hoy</a>
-                <a class="navbar-item{% if currentUrl == '/horas-mas-baratas-luz-hoy/' %} nav-current{% endif %}" href="/horas-mas-baratas-luz-hoy/" {% if currentUrl == '/horas-mas-baratas-luz-hoy/' %}aria-current="page"{% endif %}>Horas mas baratas</a>
+                <a class="navbar-item{% if currentUrl == '/horas-mas-baratas-luz-hoy/' %} nav-current{% endif %}" href="/horas-mas-baratas-luz-hoy/" {% if currentUrl == '/horas-mas-baratas-luz-hoy/' %}aria-current="page"{% endif %}>Horas más baratas</a>
                 <a class="navbar-item{% if currentUrl == '/ahorrar-factura-luz/' %} nav-current{% endif %}" href="/ahorrar-factura-luz/" {% if currentUrl == '/ahorrar-factura-luz/' %}aria-current="page"{% endif %}>Ahorrar factura</a>
+                <a class="navbar-item{% if currentUrl == '/calculadora-factura-pvpc/' %} nav-current{% endif %}" href="/calculadora-factura-pvpc/" {% if currentUrl == '/calculadora-factura-pvpc/' %}aria-current="page"{% endif %}>Calculadora</a>
                 <div class="navbar-item has-dropdown is-hoverable">
-                    <a class="navbar-link{% if currentUrl != '/' and currentUrl != '/precio-electricidad-espana-hoy/' and currentUrl != '/horas-mas-baratas-luz-hoy/' and currentUrl != '/ahorrar-factura-luz/' %} nav-current{% endif %}">
-                        Guias
+                    <a class="navbar-link{% if currentUrl != '/' and currentUrl != '/precio-electricidad-espana-hoy/' and currentUrl != '/horas-mas-baratas-luz-hoy/' and currentUrl != '/ahorrar-factura-luz/' and currentUrl != '/calculadora-factura-pvpc/' %} nav-current{% endif %}">
+                        Guías
                     </a>
                     <div class="navbar-dropdown is-right">
+                        <a class="navbar-item{% if currentUrl == '/mercado-regulado-electricidad-espana/' %} nav-current{% endif %}" href="/mercado-regulado-electricidad-espana/">Qué es mercado regulado</a>
                         <a class="navbar-item{% if currentUrl == '/pvpc-vs-mercado-libre/' %} nav-current{% endif %}" href="/pvpc-vs-mercado-libre/">PVPC vs mercado libre</a>
-                        <a class="navbar-item{% if currentUrl == '/como-entender-factura-luz/' %} nav-current{% endif %}" href="/como-entender-factura-luz/">Como entender factura</a>
-                        <a class="navbar-item{% if currentUrl == '/potencia-contratada-recomendada/' %} nav-current{% endif %}" href="/potencia-contratada-recomendada/">Potencia recomendada</a>
-                        <a class="navbar-item{% if currentUrl == '/electrodomesticos-que-mas-consumen/' %} nav-current{% endif %}" href="/electrodomesticos-que-mas-consumen/">Electrodomesticos</a>
-                        <a class="navbar-item{% if currentUrl == '/trucos-horas-baratas-luz/' %} nav-current{% endif %}" href="/trucos-horas-baratas-luz/">Trucos de ahorro</a>
-                        <a class="navbar-item{% if currentUrl == '/mercado-regulado-electricidad-espana/' %} nav-current{% endif %}" href="/mercado-regulado-electricidad-espana/">Que es mercado regulado</a>
-                        <a class="navbar-item{% if currentUrl == '/ventajas-mercado-regulado/' %} nav-current{% endif %}" href="/ventajas-mercado-regulado/">Ventajas</a>
-                        <a class="navbar-item{% if currentUrl == '/cambiar-a-tarifa-pvpc/' %} nav-current{% endif %}" href="/cambiar-a-tarifa-pvpc/">Como cambiar tarifa</a>
+                        <a class="navbar-item{% if currentUrl == '/cambiar-a-tarifa-pvpc/' %} nav-current{% endif %}" href="/cambiar-a-tarifa-pvpc/">Cómo cambiar tarifa</a>
+                        <a class="navbar-item{% if currentUrl == '/bono-social-electrico/' %} nav-current{% endif %}" href="/bono-social-electrico/">Bono social eléctrico</a>
+                        <a class="navbar-item{% if currentUrl == '/tarifa-2-0td/' %} nav-current{% endif %}" href="/tarifa-2-0td/">Tarifa 2.0TD</a>
                         <hr class="navbar-divider">
-                        <a class="navbar-item{% if currentUrl == '/faq-pvpc/' %} nav-current{% endif %}" href="/faq-pvpc/">FAQ PVPC</a>
+                        <a class="navbar-item{% if currentUrl == '/como-entender-factura-luz/' %} nav-current{% endif %}" href="/como-entender-factura-luz/">Cómo entender factura</a>
+                        <a class="navbar-item{% if currentUrl == '/potencia-contratada-recomendada/' %} nav-current{% endif %}" href="/potencia-contratada-recomendada/">Potencia recomendada</a>
+                        <a class="navbar-item{% if currentUrl == '/electrodomesticos-que-mas-consumen/' %} nav-current{% endif %}" href="/electrodomesticos-que-mas-consumen/">Electrodomésticos</a>
+                        <a class="navbar-item{% if currentUrl == '/trucos-horas-baratas-luz/' %} nav-current{% endif %}" href="/trucos-horas-baratas-luz/">Trucos de ahorro</a>
+                        <hr class="navbar-divider">
                         <a class="navbar-item{% if currentUrl == '/glosario-factura-luz/' %} nav-current{% endif %}" href="/glosario-factura-luz/">Glosario</a>
+                        <a class="navbar-item{% if currentUrl == '/sobre-nosotros/' %} nav-current{% endif %}" href="/sobre-nosotros/">Sobre ElectON</a>
                     </div>
                 </div>
             </div>

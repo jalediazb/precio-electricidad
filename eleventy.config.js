@@ -30,6 +30,8 @@ export default async function (eleventyConfig) {
         return new Date(date).toISOString().split("T")[0];
     });
 
+    eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
     eleventyConfig.amendLibrary("md", (mdLib) => {
         const defaultImageRenderer = mdLib.renderer.rules.image;
 

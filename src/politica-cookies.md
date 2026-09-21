@@ -22,7 +22,7 @@ Este sitio web puede utilizar las siguientes tipologías de cookies:
 
 - **Cookies técnicas**: necesarias para el funcionamiento básico del sitio web.
 - **Cookies de analítica**: permiten medir y analizar el uso del sitio para mejorar sus contenidos y servicios.
-- **Cookies de terceros**: gestionadas por servicios externos (por ejemplo, analítica o contenido embebido), cuando proceda.
+- **Cookies de terceros**: gestionadas por servicios externos (por ejemplo, analítica, contenido embebido o publicidad de **Google AdSense**), cuando proceda.
 
 ## 3. Finalidad de las cookies
 
@@ -35,6 +35,8 @@ Las cookies se utilizan, entre otras finalidades, para:
 ## 4. Base legal y consentimiento
 
 El uso de cookies no esenciales se basa en el consentimiento de la persona usuaria, que podrá aceptarlas, rechazarlas o configurarlas según sus preferencias.
+
+Mientras no otorgues tu consentimiento, las cookies publicitarias y de personalización permanecen desactivadas.
 
 ## 5. Cómo gestionar o desactivar cookies
 

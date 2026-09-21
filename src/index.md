@@ -7,8 +7,6 @@ og_image: "/img/comprar-precio-electricidad-espana.jpg"
 
 <div class="hero-content">
 
-# Precio de la luz hoy en España
-
 El **precio de la electricidad hoy** en España cambia cada hora según el mercado mayorista. Conocer las horas más baratas te permite ahorrar hasta un **40% en tu factura** simplemente cambiando tus hábitos de consumo.
 
 Si tienes tarifa PVPC (Precio Voluntario para el Pequeño Consumidor), el precio de cada kWh varía según la hora del día. La diferencia entre usar la lavadora a las 3:00 de la madrugada o a las 9:00 de la noche puede ser de más de **300% en el coste del término de energía**.
@@ -75,9 +73,9 @@ El **PVPC (Precio Voluntario para el Pequeño Consumidor)** es la tarifa regulad
 
 <div class="feature-card">
     <div class="feature-icon">✅</div>
-    <h3>Ventajas del PVPC</h3>
-    <p>Transparencia en precios, acceso al bono social y posibilidad de ahorrar adaptando tus hábitos.</p>
-    <a href="/ventajas-mercado-regulado/" class="feature-link">Ver ventajas →</a>
+    <h3>Bono social eléctrico</h3>
+    <p>Requisitos, cuantías y cómo solicitarlo paso a paso si cumples los criterios de vulnerabilidad.</p>
+    <a href="/bono-social-electrico/" class="feature-link">Ver requisitos →</a>
 </div>
 
 <div class="feature-card">
@@ -107,7 +105,9 @@ El **PVPC (Precio Voluntario para el Pequeño Consumidor)** es la tarifa regulad
 - [<span class="guide-icon">📋</span> Cómo entender la factura de la luz](/como-entender-factura-luz/) - Aprende a leer cada concepto y detectar posibles errores
 - [<span class="guide-icon">⚡</span> Qué potencia contratar en casa](/potencia-contratada-recomendada/) - Evita pagar de más por potencia que no necesitas
 - [<span class="guide-icon">🔌</span> Electrodomésticos que más consumen](/electrodomesticos-que-mas-consumen/) - Descubre dónde se va tu dinero y cómo optimizar
-- [<span class="guide-icon">❓</span> Preguntas frecuentes sobre PVPC](/faq-pvpc/) - Resuelve todas tus dudas sobre la tarifa regulada
+- [<span class="guide-icon">🔢</span> Tarifa 2.0TD explicada](/tarifa-2-0td/) - Entiende los tramos punta, llano y valle y cómo se factura tu consumo
+- [<span class="guide-icon">🧮</span> Calculadora de factura PVPC](/calculadora-factura-pvpc/) - Estima tu factura con tu consumo y tus precios reales
+- [<span class="guide-icon">📊</span> Consultar tu consumo por horas](/datadis-consumo-horario/) - Descarga tus curvas de consumo con Datadis
 - [<span class="guide-icon">📖</span> Glosario de términos eléctricos](/glosario-factura-luz/) - Entiende cada concepto de tu factura
 
 </div>

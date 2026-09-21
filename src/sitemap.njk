@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
     {%- if page.url and page.url !== "/robots.txt" and page.url !== "/sitemap.xml" and page.url !== "/ads.txt" and "noindex" not in (page.data.robots or "") %}
     <url>
         <loc>https://electon.es{{ page.url }}</loc>
-        <lastmod>{% if page.url === "/" and precios.fechaActualizacion %}{{ precios.fechaActualizacion }}{% else %}{{ (page.data.date or page.date) | isoDate }}{% endif %}</lastmod>
+        <lastmod>{% if page.url === "/" and precios.fechaActualizacion %}{{ precios.fechaActualizacion }}{% else %}{{ (page.data.updated or page.data.date or page.date) | isoDate }}{% endif %}</lastmod>
     </url>
     {%- endif %}
 {%- endfor %}

@@ -30,6 +30,10 @@ export default async function (eleventyConfig) {
         return new Date(date).toISOString().split("T")[0];
     });
 
+    eleventyConfig.addFilter("rssDate", (date) => {
+        return new Date(date).toUTCString();
+    });
+
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
     eleventyConfig.amendLibrary("md", (mdLib) => {

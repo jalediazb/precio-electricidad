@@ -3,13 +3,14 @@
 {% include "_includes/head.njk" %}
 {% include "_includes/header.njk" %}
 <main>
-    <!-- Hero Section para artículos -->
+    <!-- Hero del post -->
     <section class="article-hero">
         <div class="article-hero-container">
             <div class="article-hero-content">
                 <nav class="article-breadcrumb" aria-label="breadcrumbs">
                     <ul>
                         <li><a href="/">Inicio</a></li>
+                        <li><a href="/actualidad/">Actualidad</a></li>
                         <li class="is-active"><span aria-current="page">{{ title }}</span></li>
                     </ul>
                 </nav>
@@ -32,7 +33,7 @@
         </div>
     </section>
 
-    <!-- Contenido del artículo -->
+    <!-- Contenido del post -->
     <section class="article-section">
         <div class="article-container">
             <article class="article-card">
@@ -44,11 +45,10 @@
                     <div class="article-author-avatar" aria-hidden="true">⚡</div>
                     <div>
                         <p class="article-author-name">{{ author or config.site.author }}</p>
-                        <p class="article-author-bio">Contenido elaborado por el equipo editorial de ElectON a partir de fuentes oficiales (REE/ESIOS, CNMC, IDAE y OCU). Consulta nuestra <a href="/metodologia-y-fuentes/">metodología y fuentes</a>.</p>
+                        <p class="article-author-bio">Análisis elaborado por el equipo editorial de ElectON a partir de fuentes oficiales (REE/ESIOS, OMIE, CNMC, IDAE y OCU). Consulta nuestra <a href="/metodologia-y-fuentes/">metodología y fuentes</a>.</p>
                     </div>
                 </div>
 
-                <!-- Enlaces relacionados -->
                 {% if related_links %}
                 <div class="article-related">
                     <h3>Artículos relacionados</h3>
@@ -61,36 +61,31 @@
                 {% endif %}
             </article>
 
-            <!-- Sidebar with navigation -->
             <aside class="article-sidebar">
                 <div class="sidebar-widget">
-                    <h3>Guías populares</h3>
+                    <h3>Actualidad</h3>
                     <ul>
-                        <li><a href="/precio-electricidad-espana-hoy/">Precio de la luz hoy</a></li>
-                        <li><a href="/horas-mas-baratas-luz-hoy/">Horas más baratas</a></li>
-                        <li><a href="/ahorrar-factura-luz/">Cómo ahorrar</a></li>
-                        <li><a href="/pvpc-vs-mercado-libre/">PVPC vs Mercado libre</a></li>
+                        {% for post in collections.actualidad | reverse %}
+                        {% if post.url != page.url %}
+                        <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+                        {% endif %}
+                        {% endfor %}
                     </ul>
+                    <p><a href="/actualidad/">Ver toda la actualidad →</a></p>
                 </div>
 
                 <div class="sidebar-widget highlight">
-                    <h3>¿Sabías que...</h3>
-                    <p>El precio de la luz cambia cada hora. Conocer las horas más baratas te permite ahorrar hasta un 40% en tu factura.</p>
-                    <a href="/horas-mas-baratas-luz-hoy/" class="sidebar-cta">
-                            Ver horas baratas
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
-                        </a>
+                    <h3>Precio de hoy</h3>
+                    <p>Consulta el precio de la luz por horas y las horas más baratas del día.</p>
+                    <a href="/" class="sidebar-cta">
+                        Ver precio de hoy
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+                    </a>
                 </div>
             </aside>
         </div>
     </section>
 </main>
-
-{% if faqSchema %}
-<script type="application/ld+json">
-{{ faqSchema | dump | safe }}
-</script>
-{% endif %}
 
 <script type="application/ld+json">
 {
@@ -137,6 +132,12 @@
         {
             "@type": "ListItem",
             "position": 2,
+            "name": "Actualidad",
+            "item": "https://electon.es/actualidad/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
             "name": "{{ title }}",
             "item": "https://electon.es{{ page.url }}"
         }

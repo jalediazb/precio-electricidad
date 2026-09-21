@@ -100,5 +100,24 @@ title: Precio Electricidad
             {{ content | safe }}
         </div>
     </section>
+
+    {% if collections.actualidad and collections.actualidad.length %}
+    <!-- Últimos análisis -->
+    <section class="content-section-main">
+        <div class="container content is-medium">
+            <h2>Últimos análisis</h2>
+            <div class="actualidad-list">
+                {% for post in collections.actualidad | reverse %}
+                <article class="actualidad-item">
+                    <p class="actualidad-item-date">{{ post.data.date | isoDate }}</p>
+                    <h3 class="actualidad-item-title"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+                    <p class="actualidad-item-desc">{{ post.data.meta_description }}</p>
+                </article>
+                {% endfor %}
+            </div>
+            <p><a href="/actualidad/" class="feature-link">Ver toda la actualidad →</a></p>
+        </div>
+    </section>
+    {% endif %}
 </main>
 {% include "_includes/footer.njk" %}

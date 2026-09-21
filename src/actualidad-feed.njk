@@ -1,0 +1,23 @@
+---
+permalink: actualidad/feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Actualidad | ElectON</title>
+<link>https://electon.es/actualidad/</link>
+<description>Análisis y actualidad sobre el precio de la luz en España.</description>
+<language>es-ES</language>
+<atom:link href="https://electon.es/actualidad/feed.xml" rel="self" type="application/rss+xml"/>
+{%- for post in collections.actualidad | reverse %}
+<item>
+<title>{{ post.data.title }}</title>
+<link>https://electon.es{{ post.url }}</link>
+<guid>https://electon.es{{ post.url }}</guid>
+<pubDate>{{ post.date | rssDate }}</pubDate>
+<description>{{ post.data.meta_description }}</description>
+</item>
+{%- endfor %}
+</channel>
+</rss>

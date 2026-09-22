@@ -21,11 +21,11 @@
                     <span>Por <strong>{{ author or config.site.author }}</strong></span>
                     <span class="article-meta-sep">·</span>
                     {% if updated and (updated | isoDate) != (date | isoDate) %}
-                    <span>Publicado el {{ date | isoDate }}</span>
+                    <span>Publicado el {{ date | euDate }}</span>
                     <span class="article-meta-sep">·</span>
-                    <span>Actualizado el {{ updated | isoDate }}</span>
+                    <span>Actualizado el {{ updated | euDate }}</span>
                     {% else %}
-                    <span>Actualizado el {{ (updated or date) | isoDate }}</span>
+                    <span>Actualizado el {{ (updated or date) | euDate }}</span>
                     {% endif %}
                 </div>
             </div>

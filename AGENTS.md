@@ -55,4 +55,4 @@
 - Domain: `electon.es`
 
 ## Skills
-- `.opencode/skills/seo-reescritura-electon/` — SEO research/rewrite pipeline. Uses MarkItDown + Brave Search with **Spanish sources only** (the Spanish electricity market is not comparable to others).
+- `.agents/skills/seo-reescritura-electon/` — SEO research/rewrite pipeline. Uses MarkItDown + Brave Search with **Spanish sources only** (the Spanish electricity market is not comparable to others).

@@ -30,6 +30,13 @@ export default async function (eleventyConfig) {
         return new Date(date).toISOString().split("T")[0];
     });
 
+    eleventyConfig.addFilter("euDate", (date) => {
+        const d = new Date(date);
+        const dd = String(d.getUTCDate()).padStart(2, "0");
+        const mm = String(d.getUTCMonth() + 1).padStart(2, "0");
+        return `${dd}/${mm}/${d.getUTCFullYear()}`;
+    });
+
     eleventyConfig.addFilter("rssDate", (date) => {
         return new Date(date).toUTCString();
     });

@@ -1495,7 +1495,7 @@ figure.image {
 /* Related Links */
 .article-related {
     margin-top: 3rem;
-    padding-top: 2rem;
+    padding: 2rem 1.5rem 2.5rem;
     border-top: 1px solid var(--color-border);
 }
 
@@ -1706,6 +1706,10 @@ figure.image {
 
     .article-content p {
         font-size: 1rem;
+    }
+
+    .article-related {
+        padding: 1.5rem 1.25rem 2rem;
     }
 }
 

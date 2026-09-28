@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Cuánto cuesta cargar un coche eléctrico en casa"
 meta_description: "Calcula cuánto cuesta cargar un coche eléctrico en casa, cómo influye la tarifa PVPC y los horarios valle, y qué potencia necesitas para el punto de recarga."

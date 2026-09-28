@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Sobre ElectON: quiénes somos y cómo trabajamos"
 meta_description: "ElectON es un proyecto independiente que explica el precio de la luz en España, el mercado regulado PVPC y el ahorro eléctrico con datos de fuentes oficiales."

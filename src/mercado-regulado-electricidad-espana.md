@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Mercado regulado eléctrico en España: qué es y cómo funciona el PVPC"
 meta_description: "Aprende cómo funciona el mercado regulado eléctrico en España y el PVPC: precio por horas, tramos, ventajas, requisitos y cuándo compensa frente al mercado libre."

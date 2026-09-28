@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Entender la factura de la luz: guía práctica 2026"
 meta_description: "Guía clara para entender tu factura de la luz: término de energía, potencia, peajes, cargos e impuestos, y detectar dónde puedes ahorrar en casa."

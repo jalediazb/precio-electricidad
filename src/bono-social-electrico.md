@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Bono social eléctrico 2026: requisitos y cómo solicitarlo"
 meta_description: "Guía del bono social eléctrico: quién puede pedirlo, requisitos de renta, cuantías del descuento, cómo solicitarlo y qué pasa si estás en mercado libre."

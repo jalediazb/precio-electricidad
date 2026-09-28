@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Aviso legal"
 meta_description: "Información legal del sitio web sobre titularidad, condiciones de uso y responsabilidad."

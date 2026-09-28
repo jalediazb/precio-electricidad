@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Impuesto eléctrico e IVA de la luz: qué pagas realmente"
 meta_description: "Qué es el impuesto eléctrico, cuánto se paga de IVA en la factura de la luz y cómo se calculan los impuestos que encarecen tu recibo. Con ejemplos."

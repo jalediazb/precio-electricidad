@@ -1,4 +1,5 @@
 ---
+status: published
 layout: post
 title: 'Autoconsumo y baterías: La única solución definitiva contra los picos de la tarde'
 meta_description: "Baterías para placas solares: rentabilidad real en 2026, precios, subvenciones del RD 477/2021 y deducción IRPF. Guía completa del almacenamiento residencial."

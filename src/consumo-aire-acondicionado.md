@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Cuánto consume un aire acondicionado y cómo pagar menos"
 meta_description: "Cuánto gasta un aire acondicionado al mes, cómo calcular su consumo en kWh, qué temperatura usar y qué trucos reducen la factura de la luz en verano."

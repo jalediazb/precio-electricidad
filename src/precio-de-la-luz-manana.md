@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Precio de la luz mañana: cuándo se publica y cómo consultarlo"
 meta_description: "Cuándo y dónde se publica el precio de la luz de mañana en España, cómo interpretarlo y cómo planificar tus consumos en las horas más baratas del día siguiente."

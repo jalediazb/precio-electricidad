@@ -43,6 +43,11 @@ export default async function (eleventyConfig) {
 
     eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
+    eleventyConfig.addGlobalData("eleventyComputed", {
+        eleventyExcludeFromCollections: (data) => data.status === "draft",
+        permalink: (data) => (data.status === "draft" ? false : data.permalink)
+    });
+
     eleventyConfig.amendLibrary("md", (mdLib) => {
         const defaultImageRenderer = mdLib.renderer.rules.image;
 

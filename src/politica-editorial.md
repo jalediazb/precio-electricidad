@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Política editorial"
 meta_description: "Política editorial de ElectON: proceso de creación y revisión de contenidos, uso de herramientas de IA, correcciones y separación entre información y publicidad."

@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Política de cookies"
 meta_description: "Información sobre el uso de cookies, su finalidad, gestión del consentimiento y cómo desactivarlas."

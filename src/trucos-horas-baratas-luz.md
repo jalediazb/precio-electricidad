@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Trucos para ahorrar electricidad en casa en 2026"
 meta_description: "Aplica trucos reales para ahorrar electricidad: aprovechar las horas valle, ajustar la potencia, mejorar el uso de electrodomésticos y climatización."

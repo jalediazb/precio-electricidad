@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Tarifa 2.0TD: tramos horarios punta, llano y valle"
 meta_description: "Explicación de la tarifa 2.0TD: qué es, cuáles son los tramos punta, llano y valle, cómo afecta a tu factura y cómo aprovecharla para pagar menos."

@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Glosario de la factura de la luz: todos los términos"
 meta_description: "Glosario claro de la factura de la luz: PVPC, CUPS, peajes, cargos, término de potencia y energía, bono social y más de 25 conceptos explicados."

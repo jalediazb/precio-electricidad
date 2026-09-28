@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Qué potencia contratar en casa para pagar menos"
 meta_description: "Descubre qué potencia eléctrica contratar en casa para no pagar de más: cómo calcularla, tramos recomendados y cuánto cuesta subirla o bajarla."

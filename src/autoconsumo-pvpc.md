@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Autoconsumo y PVPC: excedentes y compensación"
 meta_description: "Cómo funciona el autoconsumo solar con el PVPC: modalidades, compensación de excedentes, cómo afecta a tu factura y cuándo compensa la instalación."

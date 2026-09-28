@@ -1,4 +1,5 @@
 ---
+status: published
 layout: post
 title: 'Tarifa Fija vs. Tarifa Indexada: ¿Cuál elegir con la volatilidad actual?'
 meta_description: "¿Tarifa fija o indexada de luz? Comparamos precio, riesgos y perfiles de consumo para que elijas el contrato eléctrico que mejor se adapta a ti y ahorres cada mes."

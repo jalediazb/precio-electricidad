@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Precio de la electricidad hoy en España: cuándo es más barata"
 meta_description: "Consulta cómo funciona el precio de la electricidad hoy en España por horas, identifica los tramos más baratos y entiende el PVPC para reducir tu factura."

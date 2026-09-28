@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Alta, baja y cambio de titular de la luz: trámites y plazos"
 meta_description: "Cómo dar de alta la luz, solicitar la baja o cambiar el titular de un contrato eléctrico: documentación, plazos, costes y errores habituales."

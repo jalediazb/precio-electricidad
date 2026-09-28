@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Contacto"
 meta_description: "Contacta con ElectON para dudas, correcciones o sugerencias sobre el precio de la luz, el PVPC y el ahorro eléctrico. Escríbenos a info@electon.es."

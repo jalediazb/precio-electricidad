@@ -1,4 +1,5 @@
 ---
+status: published
 layout: post
 title: 'El dilema del "precio cero" y la gran paradoja solar'
 meta_description: "Por qué la luz es tan barata al mediodía por el exceso de solar y se dispara por la noche: precio por horas, horas punta y cómo ahorrar en tu factura."

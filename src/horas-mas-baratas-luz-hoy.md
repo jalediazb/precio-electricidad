@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Horas más baratas de la luz hoy: cómo pagar menos"
 meta_description: "Descubre a qué horas es más barata la luz hoy, cómo leer el PVPC y qué hábitos aplicar para ahorrar de verdad en tu factura de la luz."

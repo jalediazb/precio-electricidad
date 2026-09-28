@@ -1,4 +1,5 @@
 ---
+status: published
 layout: post
 title: 'El peso invisible en tu factura: ¿Qué son los costes de ajuste y por qué importan?'
 meta_description: "Qué son los servicios de ajuste del sistema eléctrico, cómo repercuten en el precio del kWh y por qué han encarecido la factura de hogares y empresas desde el apagón de abril de 2025."

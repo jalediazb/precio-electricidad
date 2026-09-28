@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Cómo cambiar a tarifa PVPC y pasar al mercado regulado"
 meta_description: "Sigue estos pasos para cambiar tu tarifa al PVPC en España, entrar en el mercado regulado y aprovechar mejor las horas más baratas de la luz."

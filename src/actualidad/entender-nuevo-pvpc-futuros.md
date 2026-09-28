@@ -1,4 +1,5 @@
 ---
+status: published
 layout: post
 title: 'Guía práctica para entender el nuevo PVPC y los mercados de futuros'
 meta_description: "El nuevo PVPC fija el 55 % de su precio con los mercados de futuros. Te explicamos cómo funciona, qué cambia en tu factura y cuándo conviene la tarifa regulada."

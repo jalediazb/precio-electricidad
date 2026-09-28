@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Electrodomésticos que más consumen y cómo ahorrar luz"
 meta_description: "Conoce qué electrodomésticos consumen más en casa, con datos del IDAE, y aplica consejos prácticos para reducir su impacto mensual en la factura de la luz."

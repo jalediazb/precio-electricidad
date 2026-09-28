@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Datadis: cómo consultar tu consumo eléctrico por horas"
 meta_description: "Qué es Datadis, cómo registrarte y descargar tus curvas de consumo eléctrico por horas, y cómo usar esos datos para ahorrar en la factura de la luz."

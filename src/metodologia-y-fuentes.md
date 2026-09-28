@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Metodología y fuentes"
 meta_description: "Conoce de dónde salen los datos de ElectON: REE/ESIOS, OMIE, CNMC, IDAE y OCU, cómo se actualizan los precios y cómo verificamos los contenidos."

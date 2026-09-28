@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Termo eléctrico: cuánto consume y cómo programarlo"
 meta_description: "Cuánto consume un termo eléctrico al mes, cómo influye la temperatura y el horario, y cómo programarlo en horas valle para pagar menos en la factura."

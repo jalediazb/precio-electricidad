@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Calculadora de factura PVPC: estima tu coste"
 meta_description: "Calculadora gratuita para estimar tu factura de la luz PVPC: introduce tu consumo por tramos y tus precios y obtén el coste con impuestos incluidos."

@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "Cómo ahorrar en la factura de la luz: guía práctica"
 meta_description: "Aprende cómo ahorrar en la factura de la luz con medidas prácticas: ajustar la potencia, elegir bien la tarifa y mejorar tus hábitos de consumo diarios."

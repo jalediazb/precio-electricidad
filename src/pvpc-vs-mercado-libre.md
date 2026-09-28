@@ -1,4 +1,5 @@
 ---
+status: published
 layout: page
 title: "PVPC vs mercado libre: diferencias reales para pagar menos"
 meta_description: "Compara PVPC y mercado libre con ejemplos, ventajas y riesgos. Descubre qué tarifa de luz encaja mejor con tu consumo y cómo pagar menos sin sorpresas."

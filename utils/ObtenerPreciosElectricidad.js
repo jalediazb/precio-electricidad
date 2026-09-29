@@ -5,7 +5,7 @@ configDotenv();
 
 const API_KEY = process.env.API_ESIOS;
 
-function getTomorrowDateInSpain() {
+function getDateInSpain(offsetDays) {
   // Crear un objeto de fecha con la zona horaria de Madrid
   const today = new Date();
 
@@ -22,36 +22,76 @@ function getTomorrowDateInSpain() {
 
   // Crear un nuevo objeto de fecha basado en la cadena de la fecha en España
   const [month, day, year] = todayInSpainString.split("/");
-  const todayInSpain = new Date(`${year}-${month}-${day}T00:00:00`);
+  const dateInSpain = new Date(`${year}-${month}-${day}T00:00:00`);
 
-  // Añadir un día para obtener la fecha de mañana
-  todayInSpain.setDate(todayInSpain.getDate() + 1);
+  // Aplicar el desplazamiento en días (0 = hoy, 1 = mañana)
+  dateInSpain.setDate(dateInSpain.getDate() + offsetDays);
 
-  // Formatear la fecha de mañana a `aaaa-mm-dd`
-  const tomorrowMonth = String(todayInSpain.getMonth() + 1).padStart(2, "0");
-  const tomorrowDay = String(todayInSpain.getDate()).padStart(2, "0");
-  const tomorrowYear = todayInSpain.getFullYear();
+  // Formatear la fecha a `aaaa-mm-dd`
+  const formattedMonth = String(dateInSpain.getMonth() + 1).padStart(2, "0");
+  const formattedDay = String(dateInSpain.getDate()).padStart(2, "0");
+  const formattedYear = dateInSpain.getFullYear();
 
-  return `${tomorrowYear}-${tomorrowMonth}-${tomorrowDay}`;
+  return `${formattedYear}-${formattedMonth}-${formattedDay}`;
+}
+
+function getTomorrowDateInSpain() {
+  return getDateInSpain(1);
+}
+
+function getTodayDateInSpain() {
+  return getDateInSpain(0);
+}
+
+async function fetchValoresPorFecha(fechaStr) {
+  try {
+    const response = await fetch(
+      `https://api.esios.ree.es/indicators/1001?start_date=${fechaStr}T00:00:00&end_date=${fechaStr}T23:59:59`,
+      {
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+          Host: "apidatos.ree.es",
+          "x-api-key": API_KEY,
+        },
+      },
+    );
+
+    if (!response.ok) {
+      console.error(
+        `ESIOS respondió ${response.status} para la fecha ${fechaStr}.`,
+      );
+      return [];
+    }
+
+    const respuesta = await response.json();
+
+    console.log(`Respuesta ESIOS para ${fechaStr}:`, respuesta);
+
+    const valores = (respuesta.indicator?.values ?? []).filter(
+      (item) => item.geo_id === 8741,
+    );
+
+    return valores;
+  } catch (error) {
+    console.error(`Error al consultar ESIOS para ${fechaStr}:`, error);
+    return [];
+  }
 }
 
 async function obtenerPreciosElectricidad() {
   const tomorrow = getTomorrowDateInSpain();
+  let respuesta = { indicator: { values: await fetchValoresPorFecha(tomorrow) } };
 
-  const response = await fetch(
-    `https://api.esios.ree.es/indicators/1001?start_date=${tomorrow}T00:00:00&end_date=${tomorrow}T23:59:59`,
-    {
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json",
-        Host: "apidatos.ree.es",
-        "x-api-key": API_KEY,
-      },
-    },
-  );
-  const respuesta = await response.json();
-
-  console.log(respuesta);
+  if (respuesta.indicator.values.length === 0) {
+    console.log(
+      `No se han encontrado datos para mañana (${tomorrow}). Probando con hoy.`,
+    );
+    const today = getTodayDateInSpain();
+    respuesta = {
+      indicator: { values: await fetchValoresPorFecha(today) },
+    };
+  }
 
   if (respuesta.indicator.values.length > 0) {
     const fecha = new Date(
@@ -118,7 +158,9 @@ async function obtenerPreciosElectricidad() {
 
     return preciosProcesados;
   } else {
-    console.error("No se han encontrado datos para la fecha solicitada.");
+    console.error(
+      "No se han encontrado datos ni para mañana ni para hoy. Se conserva el precios.json anterior.",
+    );
   }
 }
 

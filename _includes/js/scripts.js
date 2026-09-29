@@ -4,7 +4,14 @@ if (chartContainer && typeof Chartist !== 'undefined' && data) {
     new Chartist.Line('.ct-chart', data, {
         lineSmooth: Chartist.Interpolation.step(
             { postpone: true, fillHoles: false }),
+        chartPadding: {
+            top: 10,
+            right: 12,
+            bottom: 0,
+            left: 8
+        },
         axisY: {
+            offset: 38,
             labelInterpolationFnc: function (value) {
                 return value.toFixed(2); // Redondea a 2 decimales
             }

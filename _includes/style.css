@@ -1034,7 +1034,11 @@ figure.image {
     .ct-label {
         font-size: 0.5rem;
     }
-    
+
+    .chart-body {
+        padding: 1rem 0.5rem;
+    }
+
     .page-section {
         padding-top: 1rem;
         padding-left: 0.5rem;

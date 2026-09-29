@@ -1225,20 +1225,20 @@ figure.image {
 
     .prices-bar-minimal,
     .prices-bar-minimal.navbar.is-fixed-bottom {
-        height: 22px !important;
-        min-height: 22px !important;
-        max-height: 22px !important;
+        height: 26px !important;
+        min-height: 26px !important;
+        max-height: 26px !important;
         padding: 0 !important;
     }
 
     .prices-bar-minimal .franja {
-        font-size: 0;
+        font-size: 0.5rem;
         min-width: auto;
         border-right: 1px solid rgba(255, 255, 255, 0.15);
     }
 
     .prices-bar-minimal .franja:hover {
-        font-size: 0;
+        font-size: 0.5rem;
         flex: 1;
     }
 
@@ -1256,12 +1256,13 @@ figure.image {
 
     .prices-bar-minimal,
     .prices-bar-minimal.navbar.is-fixed-bottom {
-        height: 20px !important;
-        min-height: 20px !important;
-        max-height: 20px !important;
+        height: 24px !important;
+        min-height: 24px !important;
+        max-height: 24px !important;
     }
 
     .prices-bar-minimal .franja {
+        font-size: 0.5rem;
         border-right: 1px solid rgba(255, 255, 255, 0.1);
     }
 }

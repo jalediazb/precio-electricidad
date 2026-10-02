@@ -1,10 +1,10 @@
 ---
-status: draft
+status: published
 layout: post
 title: 'Aerotermia y calefacción eléctrica: cuánto consumen y cómo pagar menos este invierno'
 meta_description: "Cuánto consume la aerotermia frente a radiadores y acumuladores: fórmula SCOP, gasto orientativo por vivienda y claves para pagar menos en invierno."
-date: 2026-09-28
-updated: 2026-09-28
+date: 2026-10-02
+updated: 2026-10-02
 author: "ElectON"
 og_image: "/img/aerotermia-calefaccion-invierno.jpg"
 tags: actualidad

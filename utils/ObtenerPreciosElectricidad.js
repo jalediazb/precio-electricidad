@@ -5,6 +5,10 @@ configDotenv();
 
 const API_KEY = process.env.API_ESIOS;
 
+console.log(
+  `API_ESIOS: ${API_KEY ? `presente (${API_KEY.length} caracteres)` : "AUSENTE"}`,
+);
+
 function getDateInSpain(offsetDays) {
   // Crear un objeto de fecha con la zona horaria de Madrid
   const today = new Date();
@@ -57,8 +61,9 @@ async function fetchValoresPorFecha(fechaStr) {
     );
 
     if (!response.ok) {
+      const detalle = await response.text().catch(() => "");
       console.error(
-        `ESIOS respondió ${response.status} para la fecha ${fechaStr}.`,
+        `ESIOS respondió ${response.status} para la fecha ${fechaStr}. Body: ${detalle.slice(0, 300)}`,
       );
       return [];
     }

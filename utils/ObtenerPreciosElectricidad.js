@@ -51,7 +51,6 @@ async function fetchValoresPorFecha(fechaStr) {
         headers: {
           Accept: "application/json",
           "Content-Type": "application/json",
-          Host: "apidatos.ree.es",
           "x-api-key": API_KEY,
         },
       },

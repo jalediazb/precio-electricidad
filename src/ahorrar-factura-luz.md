@@ -24,7 +24,7 @@ Si tu objetivo es pagar menos cada mes sin perder confort, el camino más eficaz
   <summary>Tabla de contenidos</summary>
   <ul>
     <li><a href="#diagnostico-factura">Diagnóstico rápido de tu factura</a></li>
-    <li><a href="#palancas-clave">Las 3 palancas clave para ahorrar</a></li>
+    <li><a href="#palancas-clave">Tres decisiones para ahorrar</a></li>
     <li><a href="#acciones-impacto">Acciones de alto impacto por zonas de la vivienda</a></li>
     <li><a href="#tabla-resumen">Tabla resumen de medidas y ahorro potencial</a></li>
     <li><a href="#plan-30-dias">Plan de 30 días para consolidar el ahorro</a></li>
@@ -49,7 +49,7 @@ Es la parte variable. Depende de **cuánto** consumes y, con tarifa PVPC o discr
 
 Comparar el mercado regulado (PVPC) y el mercado libre según tus horarios reales puede marcar diferencias relevantes. No hay una opción universal: depende de tu perfil de uso. Lo analizamos en [PVPC vs mercado libre](/pvpc-vs-mercado-libre/).
 
-<h2 id="palancas-clave">Las 3 palancas clave para ahorrar</h2>
+<h2 id="palancas-clave">Tres decisiones para ahorrar</h2>
 
 ### Potencia: ni corta ni sobredimensionada
 
@@ -146,16 +146,6 @@ El *standby* parece pequeño, pero acumulado puede representar una parte relevan
 ### 4) No revisar la factura cada trimestre
 
 Tus hábitos cambian (teletrabajo, estaciones, nuevos equipos). Tu configuración energética también debería cambiar.
-
-<h2 id="conclusion">Conclusión</h2>
-
-Ahorrar en la factura de la luz no depende de un único truco. El mayor resultado aparece cuando combinas:
-
-- **Estrategia**: potencia y tarifa alineadas con tu uso real.
-- **Ejecución**: hábitos sencillos que repites cada día.
-- **Eficiencia**: mejoras progresivas en equipos, iluminación y aislamiento.
-
-Si priorizas las acciones de bajo esfuerzo y alto impacto, puedes empezar a notar la reducción en pocas semanas y consolidar el ahorro en los meses siguientes.
 
 <div id="faqs" itemscope="" itemtype="https://schema.org/FAQPage">
   <h2>Preguntas frecuentes</h2>

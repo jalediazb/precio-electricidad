@@ -18,9 +18,9 @@ related_links:
 
 ![Explicación de la factura de la electricidad en España](/img/entender-factura-electricidad.jpg)
 
-Si has llegado aquí, seguramente quieres algo muy concreto: entender tu factura eléctrica sin perder una tarde entera ni tragarte jerga técnica. Esa es la idea de esta guía. Vamos al grano y con enfoque informativo.
+Entender tu factura eléctrica sin perder una tarde entera ni tragarte jerga técnica. Vamos al grano y con enfoque informativo.
 
-El objetivo no es solo que sepas leer cada línea del recibo, sino que detectes rápido dónde se va el dinero y qué decisiones te pueden ahorrar euros cada mes.
+El objetivo es que detectes rápido dónde se va el dinero y qué decisiones te pueden ahorrar euros cada mes.
 
 <details>
   <summary>Tabla de contenidos</summary>
@@ -157,9 +157,7 @@ No hay una opción universal para todos. Depende de tus hábitos, tu capacidad d
 7. Anota la fecha de renovación del contrato.
 8. Compara al menos dos alternativas antes de cambiar.
 
-<h2 id="conclusion">Conclusión</h2>
-
-Entender la factura de la luz no va de memorizar tecnicismos, sino de controlar tres cosas: **potencia, consumo e impuestos**. Cuando dominas eso, ves enseguida si tu contrato tiene sentido para tu día a día.
+Entender la factura de la luz es controlar tres cosas: **potencia, consumo e impuestos**. Cuando dominas eso, ves enseguida si tu contrato tiene sentido para tu día a día.
 
 Empieza por una revisión simple de tu último recibo. Si detectas potencia sobrada, consumo mal repartido o extras innecesarios, tienes margen de mejora inmediato.
 

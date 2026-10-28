@@ -20,8 +20,6 @@ related_links:
 
 El **bono social eléctrico** es un descuento regulado en la factura de la luz para consumidores vulnerables. Es una de las ayudas más importantes para hogares con dificultades económicas, pero mucha gente que podría beneficiarse no la solicita porque no sabe si cumple los requisitos.
 
-En esta guía te explicamos quién puede pedirlo, qué requisitos se exigen, cómo solicitarlo y las claves para no perderlo.
-
 <details>
   <summary>Tabla de contenidos</summary>
   <ul>

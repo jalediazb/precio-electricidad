@@ -19,7 +19,7 @@ related_links:
 
 ![energia barata a medio día](/img/barata-medio-dia.jpg)
 
-Convivimos cada día con una paradoja en el mercado eléctrico español: franjas al mediodía donde la producción masiva de energía solar desploma los precios hasta mínimos históricos y, unas horas después, repuntes drásticos al caer la tarde, cuando la demanda se dispara y el sistema recurre inevitablemente a los combustibles fósiles. Entender ese vaivén es la clave para optimizar la factura del hogar, así que vamos a desglosar por qué ocurre y qué puedes hacer con él.
+Convivimos cada día con una paradoja en el mercado eléctrico español: franjas al mediodía donde la producción masiva de energía solar desploma los precios hasta mínimos históricos y, unas horas después, repuntes drásticos al caer la tarde, cuando la demanda se dispara y el sistema recurre inevitablemente a los combustibles fósiles. Entender ese vaivén te ayuda a ahorrar: a continuación, por qué ocurre y qué puedes hacer.
 
 ## Por qué la luz es tan barata al mediodía
 

@@ -21,13 +21,13 @@ related_links:
 
 ![Nuevos derechos del consumidor eléctrico con el RD 88/2026](/img/derechos-consumidor-electrico.jpg)
 
-Cambiar de compañía eléctrica en 10 días, decir adiós a las llamadas comerciales no solicitadas y contratar con dos comercializadoras a la vez. No es una promesa comercial: son derechos que recoge el [Real Decreto 88/2026, de 11 de febrero](https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212), que aprueba el Reglamento general de suministro, comercialización y agregación. La norma, publicada en el BOE el 12 de febrero, refunde décadas de regulación dispersa y llega con un empujón extra: el 25 de septiembre de 2026 Bruselas abrió dos procedimientos de infracción contra España por no haber transpuesto aún todos los derechos europeos del consumidor eléctrico. Te contamos qué ya aplica y cómo usarlo para pagar menos.
+Cambiar de compañía eléctrica en 10 días, decir adiós a las llamadas comerciales no solicitadas y contratar con dos comercializadoras a la vez. No es una promesa comercial: son derechos que recoge el [Real Decreto 88/2026, de 11 de febrero](https://www.boe.es/buscar/act.php?id=BOE-A-2026-3212), que aprueba el Reglamento general de suministro, comercialización y agregación. La norma, publicada en el BOE el 12 de febrero, refunde décadas de regulación dispersa y llega con un empujón extra: el 25 de septiembre de 2026 Bruselas abrió dos procedimientos de infracción contra España por no haber transpuesto aún todos los derechos europeos del consumidor eléctrico.
 
 ## Qué es el RD 88/2026
 
 Es el nuevo reglamento que ordena la relación entre hogares, comercializadoras, distribuidoras y una figura nueva: el agregador independiente. Como resume [PwC](https://periscopiofiscalylegal.pwc.es/real-decreto-88-2026-de-11-de-febrero-por-el-que-se-aprueba-el-reglamento-general-de-suministro-comercializacion-y-agregacion-de-energia-electrica/), se adopta para modernizar el sistema, reforzar la protección del consumidor y transponer la directiva europea de 2019. [PylonData](https://pylondata.es/blog/rd-88/2026-el-nuevo-reglamento-de-suministro-que-reescribe-las-reglas-del-mercado-el%C3%A9ctrico-minorista) lo describe sin rodeos: el consumidor pasa de ser un objetivo de captación a ser un agente con derechos claros.
 
-Si solo quieres cambiar de tarifa, lo esencial está en [alta, baja y cambio de titular](/alta-baja-cambio-titular-luz/). Aquí vamos a los derechos nuevos que casi nadie te explica.
+Si solo quieres cambiar de tarifa, lo esencial está en [alta, baja y cambio de titular](/alta-baja-cambio-titular-luz/). Aquí vamos a los derechos nuevos.
 
 ## Cambio de comercializadora en 10 días hábiles y sin coste
 
@@ -55,7 +55,7 @@ Qué hacer si te llaman: no des tu CUPS ni tu DNI por teléfono, pide que te env
 
 ## Dos contratos en el mismo punto y precios dinámicos
 
-Dos novedades que suenan técnicas pero te afectan:
+Dos novedades:
 
 - **Más de un contrato en el mismo punto.** Puedes tener simultáneamente dos contratos de suministro en la misma vivienda, siempre que haya registro de consumo y el contrato de acceso se suscriba con el distribuidor. [Portabilidades](https://portabilidades.com/luz-gas/rd-88-2026-derechos-consumidor) lo explica con un ejemplo: contratar parte de la energía con una comercializadora y otra vía mercado. Para un hogar normal aún es testimonial, pero abre la puerta a combinar PVPC y libre según usos.
 - **Precios dinámicos.** Toda comercializadora con más de 200.000 clientes debe ofrecer contratos con precios dinámicos vinculados al mercado si tienes contador con telemedida. Antes de firmarlos, deben informarte de riesgos y mostrarte simulaciones de cómo afectaría la volatilidad a tu factura, como recuerda [Eter Energía](https://eterenergia.com/real-decreto-88-2026/).

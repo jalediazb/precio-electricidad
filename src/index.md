@@ -210,7 +210,7 @@ El **PVPC (Precio Voluntario para el Pequeño Consumidor)** es la tarifa regulad
 
 <div class="cta-content">
 
-Conocer el precio de la luz por horas es el primer paso para reducir tu factura. Con pequeños cambios en tus hábitos de consumo, puedes ahorrar significativamente sin renunciar a tu confort.
+Conocer el precio de la luz por horas es el primer paso para reducir tu factura. Con pequeños cambios en tus hábitos de consumo, puedes notarlo en el siguiente recibo.
 
 <div class="cta-buttons">
     <a href="/horas-mas-baratas-luz-hoy/" class="cta-button primary">Ver horas más baratas hoy</a>

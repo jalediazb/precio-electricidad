@@ -18,7 +18,7 @@ related_links:
 
 ![Trucos para reducir la factura eléctrica](/img/trucos-ahorrar-electricidad.jpg)
 
-Quieres pagar menos, pero sin vivir pendiente del reloj ni convertir tu casa en un laboratorio. Tiene sentido. La buena noticia es que no necesitas cambios extremos: con seis o siete ajustes bien elegidos, el impacto se nota en pocas semanas.
+Quieres pagar menos, pero sin vivir pendiente del reloj ni convertir tu casa en un laboratorio. Tiene sentido. No necesitas cambios extremos: con seis o siete ajustes bien elegidos, el impacto se nota en pocas semanas.
 
 Los datos de fuentes como el **IDAE** y la **OCU** apuntan en la misma dirección: el ahorro real sale de combinar hábitos, una tarifa adecuada y un uso inteligente de los electrodomésticos. Por separado ayudan; juntos marcan la diferencia.
 
@@ -172,7 +172,7 @@ Con eso ya tienes una base sólida. Lo importante es sostenerlo un mes para ver 
 
 Evitar estos fallos suele ahorrar más que buscar trucos puntuales, porque son decisiones diarias.
 
-En resumen: si quieres reducir la factura sin renunciar al confort, combina horarios inteligentes, ajuste de potencia, eficiencia en electrodomésticos y pequeñas mejoras de aislamiento. No hace falta perfección; hace falta constancia.
+Si quieres reducir la factura sin renunciar al confort, combina horarios inteligentes, ajuste de potencia, eficiencia en electrodomésticos y pequeñas mejoras de aislamiento. No hace falta perfección; hace falta constancia.
 
 <div id="faqs" itemscope="" itemtype="https://schema.org/FAQPage">
   <h2>Preguntas frecuentes</h2>

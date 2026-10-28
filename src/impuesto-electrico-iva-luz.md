@@ -18,7 +18,7 @@ related_links:
 
 ![Impuesto eléctrico e IVA en la factura de la luz](/img/entender-factura-electricidad.jpg)
 
-En tu factura de la luz hay dos impuestos que mucha gente pasa por alto: el **impuesto eléctrico** y el **IVA**. Entre ambos pueden sumar una parte importante del importe final. Entenderlos te ayuda a saber cuánto pagas de verdad y por qué el total es más alto de lo que parece al mirar solo el consumo.
+En tu factura de la luz hay dos impuestos que suelen pasar desapercibidos: el **impuesto eléctrico** y el **IVA**. Entre ambos pueden sumar una parte importante del importe final. Saber cómo se aplican te explica por qué el total es más alto de lo que parece al mirar solo el consumo.
 
 <details>
   <summary>Tabla de contenidos</summary>

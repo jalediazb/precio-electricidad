@@ -18,7 +18,7 @@ related_links:
 
 ![Alta, baja y cambio de titular de la luz](/img/cambiar-tarifa-electrica.jpg)
 
-Dar de alta la luz, solicitar la baja o cambiar el titular de un contrato son gestiones habituales que generan muchas dudas: ¿cuánto tardan?, ¿cuánto cuestan?, ¿hacen falta obras? En esta guía repasamos cada trámite, la documentación necesaria y los errores que conviene evitar.
+Dar de alta la luz, solicitar la baja o cambiar el titular de un contrato son gestiones habituales que generan muchas dudas: ¿cuánto tardan?, ¿cuánto cuestan?, ¿hacen falta obras?
 
 <details>
   <summary>Tabla de contenidos</summary>

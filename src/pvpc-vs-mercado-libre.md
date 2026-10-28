@@ -18,7 +18,7 @@ related_links:
 
 ![Mercado regulado PVPC vs mercado libre](/img/pvpc-vs-mercado-libre.jpg)
 
-Elegir entre **PVPC** y **mercado libre** no va de teorías: va de cuánto pagas cada mes y del susto que te quieres evitar en la factura. La respuesta rápida es que no hay una opción universalmente mejor. Hay una que encaja contigo y otra que te hace pagar de más.
+Elegir entre **PVPC** y **mercado libre** es decidir cuánto pagas cada mes y cuánto susto quieres evitar en la factura. La respuesta rápida es que no hay una opción universalmente mejor. Hay una que encaja contigo y otra que te hace pagar de más.
 
 <details>
   <summary>Tabla de contenidos</summary>
@@ -37,7 +37,7 @@ Elegir entre **PVPC** y **mercado libre** no va de teorías: va de cuánto pagas
 
 Si puedes mover consumo a horas valle y quieres estar pegado al precio real de la energía, el PVPC puede ser muy competitivo. Si prefieres estabilidad y saber cuánto te costará el kWh durante meses, el mercado libre suele darte más calma.
 
-Y hay un detalle clave que mucha gente pasa por alto: **el bono social solo se puede solicitar con PVPC**. Tienes todos los requisitos en la guía del [bono social eléctrico](/bono-social-electrico/).
+Un detalle importante: **el bono social solo se puede solicitar con PVPC**. Tienes todos los requisitos en la guía del [bono social eléctrico](/bono-social-electrico/).
 
 <h2 id="que-es-el-pvpc-y-por-que-importa">Qué es el PVPC y por qué importa</h2>
 

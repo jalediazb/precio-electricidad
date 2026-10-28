@@ -103,7 +103,7 @@ El coste puede aparecer solo si tu contrato tiene permanencia y la rompes antes 
 
 Sobre los plazos, el cambio de comercializador tiene un plazo máximo general de **10 días hábiles** desde la formalización, con posibles ampliaciones en casos complejos. En la práctica, muchos cambios se resuelven antes.
 
-Idea clave: no es inmediato, pero tampoco es un proceso largo para la mayoría de hogares.
+No es inmediato, pero tampoco es un proceso largo para la mayoría de hogares.
 
 <h2 id="errores">Errores frecuentes antes de firmar</h2>
 
@@ -135,7 +135,7 @@ Si superas los 10 kW, no podrás contratar el mercado regulado hasta ajustar ese
 | Coste del cambio | Habitualmente gratis, salvo penalización | Habitualmente gratis |
 | Plazo orientativo | Hasta 10 días hábiles | Hasta 10 días hábiles |
 
-En resumen: si priorizas estabilidad, una tarifa fija del mercado libre suele ser más cómoda. Si buscas tarifa regulada y posible acceso al bono social, el PVPC es la vía natural.
+Si priorizas estabilidad, una tarifa fija del mercado libre suele ser más cómoda. Si buscas tarifa regulada y posible acceso al bono social, el PVPC es la vía natural.
 
 <div id="faqs" itemscope="" itemtype="https://schema.org/FAQPage">
   <h2>Preguntas frecuentes</h2>

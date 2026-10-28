@@ -18,7 +18,7 @@ related_links:
 
 ![Cuánto cuesta cargar un coche eléctrico en casa](/img/comprar-precio-electricidad-espana.jpg)
 
-Cargar un coche eléctrico en casa es, para la mayoría de usuarios, **mucho más barato que repostar combustible**. La clave está en dos factores: el precio del kWh de tu tarifa y la hora a la que cargas. En esta guía te explicamos cómo calcularlo con tus propios datos y cómo aprovechar las horas valle.
+Cargar un coche eléctrico en casa es, para la mayoría de usuarios, **mucho más barato que repostar combustible**. La clave está en dos factores: el precio del kWh de tu tarifa y la hora a la que cargas.
 
 <details>
   <summary>Tabla de contenidos</summary>

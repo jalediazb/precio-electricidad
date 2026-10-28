@@ -21,13 +21,13 @@ related_links:
 
 ![Qué son los costes de ajustes](/img/costes-ajuste.jpg)
 
-Detrás del importe final de cualquier factura eléctrica se esconde un concepto técnico tan determinante como desconocido para la gran mayoría de los consumidores: los **servicios de ajuste del sistema**. Estos mecanismos resultan indispensables para garantizar en todo momento el equilibrio perfecto entre la generación y la demanda de electricidad, absorbiendo desviaciones imprevistas. Exploramos en profundidad cómo inciden directamente sobre el precio del kilovatio hora y por qué su evolución condiciona de manera decisiva la competitividad de los costes energéticos, tanto para hogares como para empresas.
+El importe final de la factura incluye un concepto técnico que casi nadie conoce pero que determina el precio: los **servicios de ajuste del sistema**. Mantienen el equilibrio entre lo que se genera y lo que se consume en cada instante, corrigiendo las desviaciones imprevistas, y su coste ha encarecido la factura de hogares y empresas desde el apagón de abril de 2025.
 
 ## Qué son los servicios de ajuste del sistema eléctrico
 
 La electricidad no se almacena a gran escala. En cada instante, la energía que se inyecta en la red tiene que ser exactamente igual a la que se consume. Si la generación supera a la demanda, la red se desestabiliza; si la demanda supera a la generación, el sistema colapsa. Ese equilibrio perfecto es imposible de conseguir solo con el mercado diario, donde las centrales y los comercializadores cierran sus posiciones horas antes del suministro real.
 
-Los **servicios de ajuste** son el conjunto de mecanismos que utiliza [Red Eléctrica de España (REE)](https://www.ree.es/es/operacion/garantia-suministro/servicios-ajuste), como operador del sistema, para corregir en tiempo real las diferencias entre lo programado y lo que ocurre de verdad. Actúan en segundos o en minutos, las 24 horas del día, los 365 días del año, y son la última línea de defensa para que la luz llegue a tu enchufe sin cortes ni fluctuaciones.
+Los **servicios de ajuste** son los mecanismos que utiliza [Red Eléctrica de España (REE)](https://www.ree.es/es/operacion/garantia-suministro/servicios-ajuste), como operador del sistema, para corregir en tiempo real las diferencias entre lo programado y lo que ocurre de verdad. Actúan en segundos o minutos, las 24 horas del día, los 365 días del año, para que la luz llegue a tu enchufe sin cortes ni fluctuaciones.
 
 No son un sobrecoste inventado: forman parte del coste regulado de la energía y su importe no lo fija ni lo percibe REE, sino que corresponde a la retribución de los agentes que participan en ellos, principalmente los generadores de electricidad.
 
@@ -101,7 +101,7 @@ No puedes eliminar los servicios de ajuste —son imprescindibles para el funcio
 - **Apuesta por la eficiencia energética.** Cuanto menos consumas, menor será el importe absoluto que pagas por este concepto. Sustituir bombillas por LED, mejorar el aislamiento térmico y elegir electrodomésticos eficientes reduce el consumo global y, con él, la repercusión de todos los componentes variables.
 - **Considera el autoconsumo.** Si reduces tu dependencia de la red, reduces también la exposición a los servicios de ajuste sobre la energía que dejas de comprar. El [autoconsumo con placas solares](/autoconsumo-pvpc/) es especialmente eficaz en las horas centrales del día, cuando la producción fotovoltaica cubre buena parte de la demanda.
 
-Entender qué son los servicios de ajuste y cómo funcionan no te convierte en experto del mercado eléctrico, pero te permite dejar de pagar de más por un concepto que, hasta hace poco, nadie te había explicado.
+Saber qué son y cómo funcionan te ayuda a entender por qué sube el término de energía y qué puedes hacer para reducir su impacto.
 
 <div id="faqs" itemscope="" itemtype="https://schema.org/FAQPage">
   <h2>Preguntas frecuentes</h2>

@@ -25,7 +25,7 @@ España ha estrenado un nuevo mercado eléctrico: el **mercado de capacidad**. L
 
 ## Qué es el mercado de capacidad
 
-Un mercado de capacidad no paga por producir electricidad, sino por **estar disponible** cuando el sistema te necesite. Es un matiz importante:
+Un mercado de capacidad paga por **estar disponible** cuando el sistema te necesite.
 
 - En el mercado diario (*pool*), que gestiona el [OMIE](https://www.omie.es/es), las centrales cobran por la energía que venden cada hora.
 - En los [servicios de ajuste](https://www.ree.es/es/operacion/garantia-suministro/servicios-ajuste), [Red Eléctrica](https://www.ree.es/) paga por corregir en tiempo real los desvíos entre lo programado y lo real (de esto hablamos en [el peso invisible de los costes de ajuste](/actualidad/costes-ajuste/)).
@@ -47,7 +47,7 @@ El resultado es la Orden TED/966/2026, analizada en detalle por despachos como [
 
 ## Cómo funciona: subastas de firmeza
 
-Sin entrar en tecnicismos jurídicos, el esquema es este:
+El esquema es este:
 
 1. **Se calcula cuánta firmeza necesita el sistema** para cubrir la demanda en los escenarios más exigentes.
 2. **Se subasta esa capacidad.** Gana quien ofrezca estar disponible al menor coste. Hay hueco para centrales existentes, nueva generación, almacenamiento y gestión de la demanda.
@@ -69,7 +69,7 @@ Como hogar individual no vas a pujar en una subasta. Tu papel es indirecto: paga
 
 ## Cómo llegará a tu factura de la luz
 
-Aquí conviene ser honesto: **el importe concreto para el hogar aún no se conoce**, porque dependerá del resultado de las subastas y de cómo el Gobierno lo reparta en los cargos del sistema de próximos ejercicios. Lo que sí se sabe es el canal:
+**El importe concreto para el hogar aún no se conoce**, porque dependerá del resultado de las subastas y de cómo el Gobierno lo reparta en los cargos del sistema de próximos ejercicios. Lo que sí se sabe es el canal:
 
 - El coste se repercutirá a los consumidores a través de los **cargos del sistema eléctrico**, la misma partida que ya incluye las primas a renovables, el déficit de tarifa y los actuales pagos por capacidad. Lo explica bien [Octopus Energy](https://octopusenergy.es/blog/cambios-factura-luz-2026): los pagos por capacidad se aplican a la energía consumida y varían según el periodo horario.
 - La [CNMC](https://www.cnmc.es/la-nueva-factura-de-la-luz) recuerda que peajes, cargos y pagos por capacidad son costes regulados: no dependen de tu comercializadora y son idénticos en PVPC y mercado libre.

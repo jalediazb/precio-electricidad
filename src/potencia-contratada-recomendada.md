@@ -105,7 +105,7 @@ Antes de tocar nada, ten claros estos puntos:
 3. No puedes superar la potencia máxima admisible de tu instalación certificada.
 4. Si hay que emitir un nuevo boletín, el coste adicional puede ser relevante.
 
-En resumen: bajar potencia suele ser fácil y barato; subirla después puede salir más caro. Por eso conviene bajar con cabeza, no a ciegas. Puedes consultar los precios regulados vigentes en la web de tu distribuidora o en la CNMC.
+Bajar potencia suele ser fácil y barato; subirla después puede salir más caro. Por eso conviene bajar con cabeza, no a ciegas. Puedes consultar los precios regulados vigentes en la web de tu distribuidora o en la CNMC.
 
 <h2 id="errores-frecuentes">Errores frecuentes que encarecen la factura</h2>
 

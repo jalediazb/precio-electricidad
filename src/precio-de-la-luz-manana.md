@@ -18,7 +18,7 @@ related_links:
 
 ![Consultar el precio de la luz de mañana](/img/comprar-precio-electricidad-espana.jpg)
 
-Conocer el **precio de la luz de mañana** te permite planificar los consumos del día siguiente con antelación: programar la lavadora, la carga del coche o el termo en las horas más baratas. La buena noticia es que el precio del PVPC se publica **el día anterior**, así que puedes decidir con margen.
+Conocer el **precio de la luz de mañana** te permite planificar los consumos del día siguiente con antelación: programar la lavadora, la carga del coche o el termo en las horas más baratas. El precio del PVPC se publica **el día anterior**, así que puedes decidir con margen.
 
 <details>
   <summary>Tabla de contenidos</summary>

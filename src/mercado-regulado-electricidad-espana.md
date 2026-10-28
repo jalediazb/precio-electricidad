@@ -18,9 +18,9 @@ related_links:
 
 ![Qué es el mercado regulado eléctrico en España y el PVPC](/img/mercado-regulado-electrico-espana.jpg)
 
-Si has llegado hasta aquí, seguramente buscas una respuesta clara: si te conviene seguir en el mercado libre o pasarte al regulado. La decisión afecta a tu factura todos los meses, y no poco. El **mercado regulado eléctrico en España** se articula alrededor del **PVPC**, una tarifa oficial con precio variable por horas que sigue reglas públicas. Tiene ventajas reales y también exigencias.
+Si te conviene seguir en el mercado libre o pasarte al regulado. La decisión afecta a tu factura todos los meses, y no poco. El **mercado regulado eléctrico en España** se articula alrededor del **PVPC**, una tarifa oficial con precio variable por horas que sigue reglas públicas. Tiene ventajas reales y también exigencias.
 
-La buena noticia es que no necesitas ser experto para entenderlo. Con una base sólida puedes decidir bien, evitar sustos en la factura y, si encajas en el perfil adecuado, ahorrar de forma constante.
+No necesitas ser experto para entenderlo. Con una base sólida puedes decidir bien, evitar sustos en la factura y, si encajas en el perfil adecuado, ahorrar de forma constante.
 
 <details>
   <summary>Tabla de contenidos</summary>
@@ -118,7 +118,7 @@ Hay una idea útil: **el mercado regulado premia la gestión activa**. Si no vas
 
 <h2 id="diferencias-mercado-libre-regulado">Mercado libre vs mercado regulado: diferencias reales</h2>
 
-Aquí está la comparación que suele faltar en muchos artículos: menos teoría y más decisión práctica.
+Menos teoría y más decisión práctica.
 
 | Aspecto | Mercado regulado (PVPC) | Mercado libre |
 |---|---|---|
@@ -158,8 +158,6 @@ Qué hacer para no caer en ellos:
 - Compara en ventana anual, no solo un mes.
 - Si puedes, automatiza consumos en horas favorables.
 - Prioriza la claridad contractual sobre promesas comerciales difusas.
-
-<h2 id="conclusion">Conclusión rápida</h2>
 
 El mercado regulado eléctrico en España, a través del PVPC, es una opción sólida cuando valoras transparencia, acceso al bono social y capacidad de adaptar tu consumo. No es mágico ni sirve igual para todos, pero bien usado funciona. Empieza por tus datos reales de consumo: ahí está la respuesta.
 

@@ -21,7 +21,7 @@ related_links:
 
 ![Centros de datos y demanda eléctrica en España](/img/centros-datos-demanda-electrica.jpg)
 
-La inteligencia artificial necesita electricidad, y mucha. Los centros de datos que la alimentan se han convertido en el gran debate eléctrico del otoño: el Gobierno prepara un real decreto para que traigan su propia energía renovable, la industria teme por su competitividad y las eléctricas piden más redes. Te explicamos con datos españoles por qué una nave llena de servidores al otro lado del país puede acabar en tu factura.
+La inteligencia artificial necesita electricidad, y mucha. Los centros de datos que la alimentan son el debate eléctrico del otoño: el Gobierno prepara un real decreto para que traigan su propia energía renovable, la industria teme por su competitividad y las eléctricas piden más redes. Con datos españoles, una nave llena de servidores al otro lado del país puede acabar en tu factura.
 
 ## Cuánto consumen y por qué crecen tan rápido
 

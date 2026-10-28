@@ -21,7 +21,7 @@ related_links:
 ![elegir tarifa eléctrica fija o indexada](/img/tarifa-fija-vs-indexada.jpg)
 
 
-Elegir correctamente entre una tarifa eléctrica de precio fijo y una modalidad indexada se ha convertido en una decisión clave para proteger el bolsillo frente a la inestabilidad de los precios energéticos. Mientras que las opciones estables aportan tranquilidad asegurando un coste constante por kilovatio hora sin sorpresas mensuales, las tarifas variables permiten aprovechar al máximo las horas económicas si dispones de la capacidad real para desplazar tus hábitos de consumo. Comparamos ambos modelos para que identifiques con total claridad cuál maximiza tu ahorro personal.
+Una tarifa fija te da un precio cerrado por kWh durante todo el contrato: sabes lo que pagas cada mes. Una indexada traslada el precio real del mercado a tu factura: cada hora tiene su coste, y puedes ahorrar si desplazas consumos a las horas baratas. Aquí comparamos ambos modelos con datos para que elijas según tu perfil de consumo.
 
 ## Qué es una tarifa de luz con precio fijo
 
@@ -65,7 +65,7 @@ Fíjate en un detalle: los peajes de acceso, los cargos del sistema y los impues
 
 ## Qué tarifa conviene según tu perfil de consumo
 
-No existe la mejor tarifa en abstracto; existe la mejor para tu casa y tus horarios. Estas son las pautas con más consenso:
+La mejor tarifa depende de tu casa y tus horarios. Estas son las pautas:
 
 - **Consumo estable y concentrado en horas punta.** Si tu rutina no permite mover consumos (horario de oficina fuera de casa, cenas y calefacción por la tarde), la indexada no te dará ventaja: consumirías cuando el mercado está más caro. Una fija con buen precio es la opción más segura.
 - **Flexibilidad horaria real.** Si puedes programar electrodomésticos, cargar el coche eléctrico de madrugada o tienes teletrabajo y horarios flexibles, una indexada (o el PVPC si cumples los requisitos) te permite rentabilizar la volatilidad. Aquí es donde los hábitos marcan la diferencia: te contamos cómo en los [trucos para aprovechar las horas baratas](/trucos-horas-baratas-luz/).
@@ -86,7 +86,7 @@ El contexto actual pesa en la decisión. Con un mercado tensionado por el calor 
 
 Pero la balanza se equilibra según cómo consumas. Si en tu casa puedes aprovechar el mediodía solar y el valle de fin de semana, la volatilidad juega a tu favor con una variable. Y si el riesgo te inquieta más que el ahorro potencial, ninguna prima de riesgo vale tanto como dormir tranquilo. El análisis honesto pasa por simular tu factura con tus números reales: tienes una herramienta para ello en la [calculadora de factura PVPC](/calculadora-factura-pvpc/) y consejos generales en [cómo ahorrar en la factura de la luz](/ahorrar-factura-luz/).
 
-Al final, no hay respuesta universal: la mejor tarifa es la que encaja con tu curva de consumo, tu tolerancia al riesgo y tu disponibilidad para gestionar horarios. Con los datos de tus propias facturas en la mano, la decisión es mucho menos adivinanza de lo que parece.
+Con los datos de tus propias facturas en la mano, la decisión es mucho menos adivinanza de lo que parece.
 
 <div id="faqs" itemscope="" itemtype="https://schema.org/FAQPage">
   <h2>Preguntas frecuentes</h2>

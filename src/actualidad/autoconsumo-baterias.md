@@ -22,7 +22,7 @@ related_links:
 
 ![¿Cómo nos pueden ayudar el autoconsumo y las baterías a reducir el coste de la electricidad](/img/autoconsumo-baterias.jpg)
 
-El despliegue del autoconsumo fotovoltaico en los hogares españoles ha dado un salto cualitativo gracias a la integración de sistemas de almacenamiento con baterías residenciales. En 2025, el 61 % de las nuevas instalaciones de autoconsumo ya incorporan batería, según datos de [UNEF](https://www.unef.es/) recogidos por [Crux Solar](https://cruxsolar.es/baterias-residenciales-crecen-99-por-ciento-2025-consolidan-rentabilidad-autoconsumo/). La tecnología permite retener el excedente generado al mediodía para consumirlo al anochecer, justo cuando los precios de la electricidad alcanzan sus cotas más elevadas. Analizamos la rentabilidad real de estas instalaciones, el impacto de las ayudas disponibles y cómo saber si merece la pena dar el paso.
+Las baterías han cambiado el autoconsumo fotovoltaico en España. En 2025, el 61 % de las nuevas instalaciones ya incorporan batería, según datos de [UNEF](https://www.unef.es/) recogidos por [Crux Solar](https://cruxsolar.es/baterias-residenciales-crecen-99-por-ciento-2025-consolidan-rentabilidad-autoconsumo/). Guardan el excedente del mediodía para usarlo al anochecer, cuando la electricidad es más cara.
 
 ## Por qué las baterías son la pieza que faltaba en el autoconsumo
 
@@ -34,11 +34,11 @@ Además del ahorro, la batería aporta dos ventajas que muchas familias valoran:
 
 ## El boom del almacenamiento residencial en España
 
-Los datos más recientes confirman que el almacenamiento se ha consolidado como la pieza decisiva del autoconsumo. Según [UNEF](https://www.unef.es/), mientras la nueva potencia de autoconsumo cayó un 3,7 % en 2025, la instalación de baterías residenciales creció un 99 % en el mismo periodo. Actualmente, seis de cada diez nuevas instalaciones residenciales ya se entregan con batería.
+Los datos recientes lo confirman: según [UNEF](https://www.unef.es/), mientras la nueva potencia de autoconsumo cayó un 3,7 % en 2025, la instalación de baterías residenciales creció un 99 % en el mismo periodo. Seis de cada diez nuevas instalaciones ya se entregan con batería.
 
 En términos de capacidad acumulada, las baterías de autoconsumo en España alcanzaron los 540 megavatios hora, un crecimiento del 65 % interanual, según [Renovables Verdes](https://www.renovablesverdes.com/el-auge-imparable-del-autoconsumo-fotovoltaico-en-espana-y-las-claves-de-su-rentabilidad/). Más de 550.000 hogares españoles tienen ya una instalación de generación fotovoltaica a menos de 5 kilómetros, lo que representa el 4,1 % de toda la energía producida en el país.
 
-El apagón peninsular de abril de 2025 aceleró aún más el interés por disponer de respaldo energético propio, poniendo de manifiesto el valor de la autonomía eléctrica más allá del mero ahorro económico.
+El apagón peninsular de abril de 2025 aceleró aún más el interés por disponer de respaldo energético propio, demostrando el valor de la autonomía eléctrica más allá del mero ahorro económico.
 
 ## Qué batería elegir: LFP, la tecnología dominante en 2026
 
@@ -78,7 +78,7 @@ El periodo de amortización sin subvenciones para una instalación de 5 kWp + 10
 
 ## Subvenciones y deducciones: así puedes reducir la inversión
 
-Existen varias vías de ayuda que, combinadas, pueden reducir el coste real de la instalación entre un 25 % y un 40 %.
+Combinadas, las ayudas reducen el coste real de la instalación entre un 25 % y un 40 %.
 
 ### Programa de incentivos del IDAE (RD 477/2021)
 

@@ -70,7 +70,7 @@ Merece menos la pena si tu vivienda tiene muy mal aislamiento y no vas a mejorar
 5. **Purga radiadores y limpia filtros.** Un radiador con aire o una bomba con filtros sucios consumen más para dar el mismo calor.
 6. **Compara tu tarifa antes del invierno.** Con el consumo disparado, una mala tarifa duele el triple. Usa el [comparador de la CNMC](https://comparador.cnmc.es/) y nuestra comparativa [PVPC vs mercado libre](/pvpc-vs-mercado-libre/).
 
-## Aerotermia y factura de la luz: lo que nadie te cuenta
+## El efecto real en tu factura de la luz
 
 Pasar de gas a aerotermia **sube tu factura eléctrica** (más kWh), pero **baja tu gasto energético total** (desaparece el gas o el gasoil). El error habitual es mirar solo la factura de la luz y asustarse: hay que sumar gas + luz antes y después.
 

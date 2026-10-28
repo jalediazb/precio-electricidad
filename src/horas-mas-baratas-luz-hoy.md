@@ -18,7 +18,7 @@ related_links:
 
 ![Comparar el precio de la electricidad hoy para ahorrar](/img/horas-baratas-electricidad-hoy.jpg)
 
-Si has llegado hasta aquí, seguramente te haces la misma pregunta que miles de hogares cada día: **a qué horas es más barata la luz hoy**. La buena noticia es que no hace falta vivir pegado al reloj. Con un par de reglas claras puedes mover lo importante a los tramos baratos y notar el cambio en la factura desde este mismo mes.
+A qué horas es más barata la luz hoy. No hace falta vivir pegado al reloj: con un par de reglas claras puedes mover lo importante a los tramos baratos y notar el cambio en la factura desde este mismo mes.
 
 <details>
   <summary>Tabla de contenidos</summary>
@@ -120,7 +120,7 @@ Una semana práctica, sin vueltas:
 - **Día 6**: compara sensaciones y consumo.
 - **Día 7**: decide si te conviene seguir en variable o pasar a precio estable.
 
-No es teoría: es organización aplicada. Y funciona.
+Organización aplicada, sin teoría.
 
 <div id="faqs" itemscope="" itemtype="https://schema.org/FAQPage">
   <h2>Preguntas frecuentes</h2>

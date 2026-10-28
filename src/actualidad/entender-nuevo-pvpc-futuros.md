@@ -19,7 +19,7 @@ related_links:
 
 ![Novedades cálculo PVPC españa](/img/nuevo-pvpc.jpg)
 
-La reforma del Precio Voluntario para el Pequeño Consumidor (PVPC) cambió la forma de calcular la tarifa regulada: desde 2024 una parte del precio ya no depende del mercado diario y se ancla a los mercados de futuros de la electricidad. El objetivo es amortiguar los picos que convirtieron la factura en un sobresalto durante la crisis energética de 2021-2022. En esta guía te explicamos cómo funciona esa fórmula mixta, en qué se diferencian OMIE y OMIP y qué ha cambiado en tu factura en 2026, para que decidas con criterio si te conviene seguir en el mercado regulado.
+La reforma del Precio Voluntario para el Pequeño Consumidor (PVPC) cambió la forma de calcular la tarifa regulada: desde 2024 una parte del precio ya no depende del mercado diario y se ancla a los mercados de futuros de la electricidad. El objetivo es amortiguar los picos que convirtieron la factura en un sobresalto durante la crisis energética de 2021-2022.
 
 ## Qué es el nuevo PVPC y en qué se diferencia del anterior
 
@@ -27,7 +27,7 @@ El PVPC es la única tarifa de electricidad regulada por el Estado. Su precio no
 
 La novedad la introdujo el **Real Decreto 446/2023**, que modificó la metodología del RD 216/2014. Antes, el coste de la energía se calculaba casi por completo con la subasta diaria; ahora se mezcla con los mercados a plazo. La implantación fue gradual: **25 % en 2024, 40 % en 2025 y 55 % desde enero de 2026**. Es decir, hoy el 45 % del coste de la energía sigue colgando del mercado diario y el 55 % se calcula con los futuros.
 
-Dentro de esa cesta a plazo, el producto anual pesa un 54 %, el trimestral un 36 % y el mensual un 10 %. El anual aporta la estabilidad de fondo, el trimestral recoge la estacionalidad y el mensual afina el corto plazo. Conviene recordar que esta fórmula solo afecta al término de energía: la potencia, los peajes, los cargos y los impuestos se calculan aparte.
+Dentro de esa cesta a plazo, el producto anual pesa un 54 %, el trimestral un 36 % y el mensual un 10 %. El anual aporta la estabilidad de fondo, el trimestral recoge la estacionalidad y el mensual afina el corto plazo. Esta fórmula solo afecta al término de energía: la potencia, los peajes, los cargos y los impuestos se calculan aparte.
 
 ## Qué es el mercado de futuros de la electricidad (y en qué se diferencia de OMIE)
 
@@ -86,9 +86,7 @@ La respuesta depende de cuánto puedas adaptar tu consumo y de cuánta incertidu
 
 Si dudas, compara escenarios con tus datos reales en la [calculadora de factura PVPC](/calculadora-factura-pvpc/) y revisa las diferencias en [PVPC o mercado libre](/pvpc-vs-mercado-libre/). Recuerda que las horas valle, los fines de semana y los festivos nacionales son las más baratas dentro de la estructura [2.0TD](/tarifa-2-0td/), y que el cambio de comercializadora es gratuito: tienes el paso a paso en [cómo cambiar a la tarifa PVPC](/cambiar-a-tarifa-pvpc/).
 
-## Conclusión
-
-El nuevo PVPC ya no es una apuesta a todo o nada sobre el mercado diario. Con el 55 % del coste de la energía anclado a los mercados de futuros, la tarifa regulada gana estabilidad sin renunciar a su transparencia ni al bono social. A cambio, sigue siendo variable y premia a quien puede mover su consumo. Si tienes flexibilidad, el PVPC merece una comparación seria; si necesitas una factura predecible, una tarifa fija del mercado libre puede encajar mejor. En ambos casos, entender la fórmula es lo que te permite decidir sin depender de la primera oferta que te llegue.
+El nuevo PVPC ya no es una apuesta a todo o nada sobre el mercado diario. Con el 55 % del coste de la energía anclado a los mercados de futuros, la tarifa regulada gana estabilidad sin renunciar a su transparencia ni al bono social. A cambio, sigue siendo variable y premia a quien puede mover su consumo. Si tienes flexibilidad, el PVPC merece una comparación seria; si necesitas una factura predecible, una tarifa fija del mercado libre puede encajar mejor.
 
 <div id="faqs" itemscope="" itemtype="https://schema.org/FAQPage">
   <h2>Preguntas frecuentes</h2>

@@ -21,7 +21,7 @@ related_links:
 
 ![Autoconsumo colectivo: compartir placas solares entre vecinos a 5 km](/img/autoconsumo-colectivo-vecinos.jpg)
 
-Vives en un piso sin tejado útil y crees que el autoconsumo no es para ti. Pues hay una vía pensada justo para ese caso: el **autoconsumo colectivo**. Una sola instalación de placas —en la azotea de la comunidad, en una nave cercana o en un suelo próximo— reparte su electricidad entre varios vecinos a través de la red. Y desde la convalidación del Real Decreto-ley 7/2026, el radio llega hasta los **5 km**. Te explicamos los requisitos, el acuerdo de reparto y los pasos para unirte o montar uno, sin confundirlo con la batería virtual de tu comercializadora.
+Vives en un piso sin tejado útil y crees que el autoconsumo no es para ti. Hay una vía pensada para ese caso: el **autoconsumo colectivo**. Una sola instalación de placas —en la azotea de la comunidad, en una nave cercana o en un suelo próximo— reparte su electricidad entre varios vecinos a través de la red. Desde la convalidación del Real Decreto-ley 7/2026, el radio llega a **5 km**. Estos son los requisitos, el acuerdo de reparto y los pasos para unirte o montar uno, sin confundirlo con la batería virtual de tu comercializadora.
 
 ## Qué es el autoconsumo colectivo
 

@@ -18,7 +18,7 @@ related_links:
 
 ![Consumo del termo eléctrico y cómo programarlo](/img/electrodomesticos-que-mas-consumen.jpg)
 
-El **termo eléctrico** (o calentador eléctrico) es uno de los aparatos que más consume en las viviendas que no tienen gas. Al mantener el agua caliente durante todo el día, funciona de forma intermitente las 24 horas. La buena noticia es que es también uno de los más fáciles de optimizar: basta con controlar la temperatura y, sobre todo, el horario.
+El **termo eléctrico** (o calentador eléctrico) es uno de los aparatos que más consume en las viviendas que no tienen gas. Al mantener el agua caliente durante todo el día, funciona de forma intermitente las 24 horas. Es también uno de los más fáciles de optimizar: basta con controlar la temperatura y, sobre todo, el horario.
 
 <details>
   <summary>Tabla de contenidos</summary>

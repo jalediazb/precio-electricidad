@@ -20,8 +20,6 @@ related_links:
 
 Si has mirado tu factura de la luz y has sentido un vuelco en el estómago, no estás solo. Entender el **precio de la electricidad en España** parece complicado, pero en realidad se reduce a una idea: la energía cuesta distinto a cada hora del día. Saber cuándo es más barata es la herramienta más eficaz para pagar menos sin cambiar tus hábitos de vida.
 
-En esta guía te explicamos cómo se forma el **precio de la electricidad hoy**, por qué cambia tanto, qué son los tramos horarios del PVPC y qué estrategias funcionan de verdad.
-
 <details>
   <summary>Tabla de contenidos</summary>
   <ul>

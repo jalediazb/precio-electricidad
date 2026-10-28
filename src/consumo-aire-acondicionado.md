@@ -18,7 +18,7 @@ related_links:
 
 ![Cuánto consume un aire acondicionado y cómo reducirlo](/img/electrodomesticos-que-mas-consumen.jpg)
 
-El aire acondicionado es uno de los grandes responsables del aumento de la factura en verano. Pero su consumo no depende solo de las horas que lo uses: influyen la potencia del equipo, la temperatura que pongas, el aislamiento de la vivienda y el horario en que lo enciendas. Aquí tienes cómo calcularlo y cómo reducirlo.
+El aire acondicionado es uno de los grandes responsables del aumento de la factura en verano. Pero su consumo no depende solo de las horas que lo uses: influyen la potencia del equipo, la temperatura que pongas, el aislamiento de la vivienda y el horario en que lo enciendas.
 
 <details>
   <summary>Tabla de contenidos</summary>

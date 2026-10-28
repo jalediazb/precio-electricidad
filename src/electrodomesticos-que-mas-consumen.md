@@ -18,7 +18,7 @@ related_links:
 
 ![Cuáles son los electrodomésticos que más consumen y cómo ahorrar](/img/electrodomesticos-que-mas-consumen.jpg)
 
-La factura sube y muchas veces no sabes por dónde se escapa el dinero. La buena noticia es que no necesitas vivir a oscuras para ahorrar: necesitas foco.
+La factura sube y muchas veces no sabes por dónde se escapa el dinero. No necesitas vivir a oscuras para ahorrar: necesitas foco.
 
 En un hogar medio en España, los electrodomésticos explican una parte enorme del gasto eléctrico. Según el **IDAE**, representan alrededor del **55% del consumo eléctrico** de una vivienda, y la nevera es el aparato que más gasta, con cerca de un **30%** de ese total. Los hábitos diarios mueven mucho la aguja.
 
@@ -107,7 +107,7 @@ Hazlo con tres aparatos grandes y verás enseguida dónde está el mayor margen 
 
 <h2 id="como-reducir">Cómo reducir el consumo sin perder confort</h2>
 
-Esta es la parte que más interesa: qué tocar hoy para notarlo este mes.
+Qué tocar hoy para notarlo este mes.
 
 ### En frío (nevera y congelador)
 

@@ -18,7 +18,7 @@ related_links:
 
 ![Autoconsumo solar y PVPC: excedentes y compensación](/img/trucos-ahorrar-electricidad.jpg)
 
-El **autoconsumo solar** permite producir tu propia electricidad y reducir la factura. Si además estás en PVPC, puedes **compensar los excedentes** que viertes a la red. Es una de las vías más eficaces para bajar el coste eléctrico de forma estructural, pero conviene entender bien cómo funciona antes de invertir.
+El **autoconsumo solar** permite producir tu propia electricidad y reducir la factura. Si además estás en PVPC, puedes **compensar los excedentes** que viertes a la red. Baja el coste eléctrico de forma estable, pero conviene entender bien cómo funciona antes de invertir.
 
 <details>
   <summary>Tabla de contenidos</summary>

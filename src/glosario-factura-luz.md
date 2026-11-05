@@ -122,9 +122,6 @@ Producción de electricidad para consumo propio, normalmente con placas solares.
 **Compensación de excedentes**
 Descuento en la factura por la energía que viertes a la red y no autoconsumes.
 
-## ¿Te falta algún término?
-
-Si echas en falta algún concepto, escríbenos a **[info@electon.es](mailto:info@electon.es)** y lo añadiremos.
 
 <div class="related-links">
 <a href="/como-entender-factura-luz/">Cómo entender la factura de la luz</a><br>

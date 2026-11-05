@@ -5,7 +5,6 @@ export default {
     language: "es_ES",
     title: "ElectON",
     author: "ElectON",
-    email: "info@electon.es",
     favicon: "/img/icon.png",
   },
 };

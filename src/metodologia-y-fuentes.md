@@ -50,7 +50,3 @@ Puedes leer el detalle del proceso en la [política editorial](/politica-editori
 ## Transparencia
 
 ElectON se financia con publicidad display. La publicidad **no condiciona** los contenidos. Si en algún artículo incluimos un enlace comercial, lo señalizamos de forma clara.
-
-## Contacto
-
-Si crees que un dato es incorrecto, escríbenos a **[info@electon.es](mailto:info@electon.es)** con la página y el dato en cuestión. Lo revisaremos.

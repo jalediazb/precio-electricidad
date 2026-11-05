@@ -34,7 +34,6 @@ Utilizamos herramientas de IA como **apoyo** en tareas de documentación, estruc
 ## Exactitud y correcciones
 
 - Si un dato deja de ser correcto, actualizamos el artículo y su fecha de modificación.
-- Si detectas un error, escríbenos a **[info@electon.es](mailto:info@electon.es)** indicando la página y el dato. Corregiremos lo antes posible.
 - Aplicamos una política de **corrección transparente**: los cambios relevantes se reflejan actualizando la fecha de "última actualización".
 
 ## Información y publicidad

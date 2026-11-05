@@ -63,7 +63,7 @@ Para contratar el PVPC debes cumplir, sobre todo, esta condición técnica:
 Además:
 
 1. Debes contratar con una **comercializadora de referencia**.
-2. Necesitas ser titular o tener autorización para gestionar el contrato.
+2. Necesitas ser titular o tener autorización para gestionar el contrato. Si el contrato está a nombre de otra persona o la vivienda es nueva, tendrás que tramitar un [cambio de titular o un alta](/alta-baja-cambio-titular-luz/) antes de cambiar de tarifa.
 3. Debes aportar la documentación básica del punto de suministro.
 
 Documentos habituales:

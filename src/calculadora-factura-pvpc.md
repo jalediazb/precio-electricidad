@@ -16,7 +16,7 @@ related_links:
     url: "/tarifa-2-0td/"
 ---
 
-Esta calculadora te ayuda a **estimar cuánto pagarás en tu factura de la luz** con tarifa PVPC o con cualquier tarifa con discriminación horaria. Introduce tus datos y verás el desglose con impuestos incluidos.
+Esta calculadora te ayuda a **estimar cuánto pagarás en tu factura de la luz** con tarifa PVPC o con cualquier tarifa con discriminación horaria. Introduce tus datos y verás el desglose con impuestos incluidos. Si quieres saber cómo se calculan, consulta [impuesto eléctrico e IVA de la luz](/impuesto-electrico-iva-luz/).
 
 <p class="notification is-info is-light">Los valores que vienen por defecto son solo un ejemplo. Para un cálculo fiel, copia los importes y el consumo reales de tu última factura.</p>
 

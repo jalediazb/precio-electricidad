@@ -49,6 +49,8 @@ Es la parte variable. Depende de **cuánto** consumes y, con tarifa PVPC o discr
 
 Comparar el mercado regulado (PVPC) y el mercado libre según tus horarios reales puede marcar diferencias relevantes. No hay una opción universal: depende de tu perfil de uso. Lo analizamos en [PVPC vs mercado libre](/pvpc-vs-mercado-libre/).
 
+A estos tres bloques se suman los impuestos, que no se negocian pero se reducen si baja la base sobre la que se calculan. Tienes el detalle en [impuesto eléctrico e IVA de la luz](/impuesto-electrico-iva-luz/).
+
 <h2 id="palancas-clave">Tres decisiones para ahorrar</h2>
 
 ### Potencia: ni corta ni sobredimensionada

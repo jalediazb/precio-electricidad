@@ -81,6 +81,8 @@ La estructura habitual es:
 - Alquiler del contador.
 - Financiación del bono social en algunas facturas.
 
+Los dos primeros son impuestos regulados y no dependen de tu comercializadora. Puedes ver cómo se aplican, en qué orden y con un ejemplo en [impuesto eléctrico e IVA de la luz](/impuesto-electrico-iva-luz/).
+
 <h2 id="como-se-calcula-el-total">Cómo se calcula el total de tu factura</h2>
 
 Sin fórmulas raras, el cálculo sería así:

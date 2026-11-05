@@ -45,6 +45,13 @@ El **PVPC (Precio Voluntario para el Pequeño Consumidor)** es la tarifa regulad
 </div>
 
 <div class="feature-card">
+    <div class="feature-icon">🌙</div>
+    <h3>Precio de la luz mañana</h3>
+    <p>Cuándo se publica el precio del día siguiente y cómo dejar programados tus consumos con antelación.</p>
+    <a href="/precio-de-la-luz-manana/" class="feature-link">Ver precio de mañana →</a>
+</div>
+
+<div class="feature-card">
     <div class="feature-icon">🕐</div>
     <h3>Horas más baratas de la luz</h3>
     <p>Descubre cuándo poner la lavadora, el lavavajillas o cargar el coche eléctrico pagando menos.</p>
@@ -107,6 +114,7 @@ El **PVPC (Precio Voluntario para el Pequeño Consumidor)** es la tarifa regulad
 - [<span class="guide-icon">⚡</span> Qué potencia contratar en casa](/potencia-contratada-recomendada/) - Evita pagar de más por potencia que no necesitas
 - [<span class="guide-icon">🔌</span> Electrodomésticos que más consumen](/electrodomesticos-que-mas-consumen/) - Descubre dónde se va tu dinero y cómo optimizar
 - [<span class="guide-icon">🔢</span> Tarifa 2.0TD explicada](/tarifa-2-0td/) - Entiende los tramos punta, llano y valle y cómo se factura tu consumo
+- [<span class="guide-icon">🏠</span> Alta, baja y cambio de titular de la luz](/alta-baja-cambio-titular-luz/) - Trámites, documentación y plazos para contratar o dar de baja el suministro
 - [<span class="guide-icon">🧮</span> Calculadora de factura PVPC](/calculadora-factura-pvpc/) - Estima tu factura con tu consumo y tus precios reales
 - [<span class="guide-icon">📊</span> Consultar tu consumo por horas](/datadis-consumo-horario/) - Descarga tus curvas de consumo con Datadis
 - [<span class="guide-icon">📖</span> Glosario de términos eléctricos](/glosario-factura-luz/) - Entiende cada concepto de tu factura

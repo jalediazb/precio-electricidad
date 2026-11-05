@@ -32,7 +32,3 @@ Puedes consultar el detalle en nuestra [metodología y fuentes](/metodologia-y-f
 ## Cómo se financia ElectON
 
 ElectON se financia con **publicidad display** (Google AdSense). La publicidad nos permite mantener el sitio y las herramientas de forma gratuita. **Los anunciantes no influyen** en los contenidos ni en las conclusiones de nuestras guías. Si algún contenido incluye un enlace comercial o de afiliación, se indica de forma expresa.
-
-## Contacto
-
-¿Tienes una duda, una corrección o una sugerencia? Escríbenos a **[info@electon.es](mailto:info@electon.es)** o visita la página de [Contacto](/contacto/).

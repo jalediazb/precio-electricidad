@@ -54,6 +54,8 @@ Los factores que más influyen son:
 
 La conclusión práctica es que el precio depende de la oferta y la demanda hora a hora, y por eso dos días consecutivos pueden ser muy distintos.
 
+Si quieres planificar con antelación, el precio del día siguiente se publica la tarde anterior: explicamos [cuándo se publica el precio de la luz de mañana](/precio-de-la-luz-manana/) y cómo aprovecharlo.
+
 <h2 id="tramos-horarios-de-la-tarifa-pvpc">3. Tramos horarios de la tarifa PVPC</h2>
 
 La tarifa PVPC se estructura en **tres periodos** que se repiten de lunes a viernes (los fines de semana y festivos nacionales son valle todo el día):

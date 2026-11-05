@@ -44,6 +44,8 @@ Para acertar hoy, sigue estos pasos:
 3. Reserva ese bloque para los consumos intensivos.
 4. Evita concentrar consumos en la tarde-noche, donde suele subir el kWh.
 
+Si prefieres dejar los consumos programados, el precio del día siguiente se publica la tarde anterior: consulta [cuándo se publica el precio de la luz de mañana](/precio-de-la-luz-manana/) y planifica con margen.
+
 Un consejo práctico: si no quieres mirar precios cada día, valora una tarifa que encaje con tus horarios reales. Pagar un poco más por previsibilidad puede salir más barato que una mala organización diaria.
 
 <h2 id="franjas-mas-baratas-y-mas-caras">Qué franjas suelen ser más baratas y cuáles más caras</h2>

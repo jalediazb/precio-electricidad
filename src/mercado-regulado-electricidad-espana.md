@@ -141,7 +141,7 @@ Cambiar de libre a regulado no es complejo. Suele seguir este flujo:
 3. Verifica la potencia contratada y la titularidad.
 4. Confirma la contratación y espera la activación administrativa.
 
-No implica obras ni cortes programados por el simple cambio de comercializadora en condiciones normales. Lo que cambia es el contrato y la forma en que se liquida el término de energía. Tienes los pasos detallados en [cómo cambiar a tarifa PVPC](/cambiar-a-tarifa-pvpc/).
+No implica obras ni cortes programados por el simple cambio de comercializadora en condiciones normales. Lo que cambia es el contrato y la forma en que se liquida el término de energía. Tienes los pasos detallados en [cómo cambiar a tarifa PVPC](/cambiar-a-tarifa-pvpc/). Si la titularidad no está a tu nombre, necesitarás un [cambio de titular o un alta de suministro](/alta-baja-cambio-titular-luz/) antes de contratar.
 
 <h2 id="errores-habituales">Errores habituales y recomendaciones</h2>
 
